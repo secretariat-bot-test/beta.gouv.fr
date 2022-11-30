@@ -22,6 +22,8 @@ previously:
   - api-particulier
   - aidantsconnect
   - tchap
+teams:
+  - /teams/animation-dinum
 ---
 
 Minimum effort, maximum impact.

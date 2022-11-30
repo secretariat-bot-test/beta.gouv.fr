@@ -26,4 +26,7 @@ previously:
   - histologe
 badges:
   - segur
+teams:
+  - /teams/animation-dinum
+  - /teams/brigade
 ---

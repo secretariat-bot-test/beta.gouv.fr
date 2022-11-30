@@ -24,10 +24,10 @@ startups:
     - api.gouv.fr
     - datapass
     - annuaire-entreprises
-    - comptes_datapass
-    - metiers-numeriques
+    - moncomptepro
 previously:
     - openfisca
     - aides.jeunes
+    - metiers-numeriques
     - pass-emploi
 ---

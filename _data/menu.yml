@@ -5,6 +5,9 @@ nav:
     label: Brigade
     target: _pages/brigade.md
   -
+    label: Incubateurs
+    target: _pages/incubateurs.md
+  -
     label: Réalisations
     target: _pages/startups.md
   -
@@ -14,10 +17,6 @@ nav:
     label: Recrutement
     target: _pages/recrutement.md
 shortcuts:
-  -
-    label: Annuaire
-    external: false
-    url: /communaute/annuaire
   -
     label: Documentation
     external: true

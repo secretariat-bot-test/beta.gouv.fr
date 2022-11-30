@@ -10,15 +10,18 @@ missions:
     status: admin
     employer: DINUM
   - start: 2022-01-04
-    end: 2022-11-30
+    end: 2023-01-08
     status: independent
     employer: Benext
 previously:
   - aides.jeunes
+memberType: beta
 badges:
   - segur
 competences:
   - Développement Backend
   - Développement Frontend
+teams:
+  - /teams/communaute-dinum
 ---
 Développeur Web Fullstack

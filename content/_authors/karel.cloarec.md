@@ -32,6 +32,10 @@ missions:
 startups:
   - deveco
   - guichet-entreprises-nc
+  - monstage
+  - rdv.mjd
+  - frise.cpip
+  - chantiers.agiles
 previously:
   - andi
   - urbanvitaliz
@@ -40,6 +44,7 @@ previously:
   - anct-pni-14
   - anct-pni-40
   - ethique.en.sante.numerique
+  - conventionnement.iae
 badges:
   - segur
 competences:

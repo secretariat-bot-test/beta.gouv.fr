@@ -12,6 +12,8 @@ mapping:
     type:      str
   "github":
     type:      str
+  "memberType":
+    type:      str
   "missions":
     type:      seq
     required:  yes
@@ -54,4 +56,8 @@ mapping:
   "competences":
     type:      seq
     sequence:
-        - type:      str     
+        - type:      str
+  "teams":
+    type:      seq
+    sequence:
+        - type:      any  
