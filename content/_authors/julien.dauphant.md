@@ -30,6 +30,7 @@ competences:
   - Administration Système
   - Développement Frontend
   - Développement Backend
+0: "[object Object]"
 ---
 
 Chercheur de simplicité
