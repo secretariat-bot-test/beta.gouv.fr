@@ -30,6 +30,7 @@ competences:
   - Administration Système
   - Développement Frontend
   - Développement Backend
+end: 2022-12-25
 ---
 
 Chercheur de simplicité
