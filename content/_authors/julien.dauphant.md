@@ -1,15 +1,15 @@
 ---
 fullname: Julien Dauphant
 role: Intrapreneur Tchap
-link: 'https://twitter.com/jdauphant'
+link: https://twitter.com/jdauphant
 github: jdauphant
 missions:
-  - employer: octo
-    start: 2016-11-03
-    end: 2019-08-31
+  - start: 2016-11-03T00:00:00.000Z
+    end: 2019-08-31T00:00:00.000Z
     status: independent
-  - start: 2019-09-01
-    end: 2025-08-31
+    employer: octo
+  - start: 2019-09-01T00:00:00.000Z
+    end: 2023-04-23T00:00:00.000Z
     status: admin
     employer: dinum
 startups:
@@ -30,6 +30,6 @@ competences:
   - Administration Système
   - Développement Frontend
   - Développement Backend
----
 
+---
 Chercheur de simplicité
