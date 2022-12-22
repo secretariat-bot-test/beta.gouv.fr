@@ -31,5 +31,3 @@ competences:
   - Développement Frontend
   - Développement Backend
 ---
-
-Chercheur de simplicité
