@@ -5,12 +5,14 @@ domaine: Déploiement
 github: Waltenberg03
 missions:
   - start: 2022-02-01
-    end: 2023-06-30
+    end: 2023-02-24
     status: independent
+    employer: ''
 startups:
-  - la-bonne-alternance
+  - matcha
+  - rdv.apprentissage
 badges:
   - segur
----
 
-Chargé de déploiement  / Haut-Savoyard / Trail runner dilettante 
+---
+Chargé de déploiement  / Haut-Savoyard / Trail runner dilettante
