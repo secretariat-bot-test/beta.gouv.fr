@@ -5,7 +5,7 @@ domaine: Déploiement
 github: Waltenberg03
 missions:
   - start: 2022-02-01
-    end: 2023-01-19
+    end: 2023-02-09
     status: independent
     employer: ''
 startups:
