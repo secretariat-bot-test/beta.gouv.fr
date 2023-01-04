@@ -5,7 +5,7 @@ domaine: Développement
 github: alemangui
 missions:
   - start: 2019-05-13
-    end: 2023-04-14
+    end: 2023-01-26
     status: independent
     employer: ''
 startups:
