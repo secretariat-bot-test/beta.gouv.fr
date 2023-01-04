@@ -5,11 +5,13 @@ domaine: Développement
 github: alemangui
 missions:
   - start: 2019-05-13
-    end: 2023-06-30
+    end: 2023-04-14
     status: independent
+    employer: ''
 startups:
-    - ma-cantine-egalim
+  - ma-cantine-egalim
 previously:
-    - peps
-    - e-inspé
+  - peps
+  - e-inspé
+
 ---
