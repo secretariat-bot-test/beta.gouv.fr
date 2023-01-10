@@ -4,14 +4,13 @@ role: Développeur
 domaine: Développement
 missions:
   - start: 2017-04-01
-    end: 2020-08-28
+    end: 2023-01-27
     status: service
     employer: octo
 startups:
-    - pass-culture
+  - pass-culture
 previously:
-    - pix
----
+  - pix
 
-Inventeur de blagues nulles, Eleveur de loutres
-Anciennement Tech-Lead sur Pix
+---
+Inventeur de blagues nulles, Eleveur de loutres Anciennement Tech-Lead sur Pix
