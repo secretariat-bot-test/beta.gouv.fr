@@ -6,10 +6,10 @@ github: AdrienLaville
 avatar: https://i.goopics.net/dpgnJ.jpg
 missions:
   - start: 2018-12-01
-    end: 2022-12-31
+    end: 2023-01-27
     status: service
     employer: NUMA
-startups:
+startups: null
 previously:
   - mission-transition-ecologique
   - domifa
@@ -20,4 +20,5 @@ previously:
 competences:
   - Coaching
   - Gestion de Produit
+
 ---
