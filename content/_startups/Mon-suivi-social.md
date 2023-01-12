@@ -1,6 +1,7 @@
 ---
-mission: Libérer du temps pour l'accompagnement social grâce à une solution
-  simple, intuitive et sécurisée.
+mission: >-
+  Libérer du temps pour l'accompagnement social grâce à une solution simple,
+  intuitive et sécurisée.
 incubator: anct
 link: https://monsuivisocial.incubateur.anct.gouv.fr/
 repository: https://gitlab.com/incubateur-territoires/startups/monsuivisocial
@@ -19,8 +20,12 @@ phases:
     end: 2022-02-01
   - name: construction
     start: 2022-03-01
-    end: ""
+    end: 2023-01-28
+  - name: acceleration
+    start: 2023-01-28
+
 ---
+
 ### Contexte/problème
 
 Durant la phase d'investigation, le CIAS du Grand Autunois Morvan a fait émerger la problématique du suivi numérique des bénéficiaires dans la structure. 
