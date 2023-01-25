@@ -1,8 +1,8 @@
 ---
 title: Code du travail numérique
 mission: Faciliter l'accès au droit du travail pour les entreprises et les employés.
-sponsors: 
-    - /organisations/dgt
+sponsors:
+  - /organisations/dgt
 incubator: sgmas
 phases:
   - name: investigation
@@ -13,6 +13,9 @@ phases:
     start: 2019-01-01
   - name: success
     start: 2021-01-01
+    end: 2023-01-25
+  - name: investigation
+    start: 2023-01-25
 link: https://code.travail.gouv.fr
 repository: https://github.com/SocialGouv/code-du-travail-numerique
 stats: true
@@ -26,7 +29,9 @@ techno:
 usertypes:
   - entreprise
   - particulier
+
 ---
+
 
 ## Qu’est-ce que le Code du travail numérique ?
 
