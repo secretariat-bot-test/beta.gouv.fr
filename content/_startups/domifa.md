@@ -1,6 +1,8 @@
 ---
 title: DomiFa
-mission: Faciliter l'accès aux droits pour les personnes sans domicile stable, en simplifiant la gestion de la domiciliation 
+mission: >-
+  Faciliter l'accès aux droits pour les personnes sans domicile stable, en
+  simplifiant la gestion de la domiciliation
 sponsors:
   - /organisations/dgcs
 incubator: sgmas
@@ -11,6 +13,12 @@ phases:
     start: 2018-06-01
   - name: acceleration
     start: 2020-01-01
+    end: 2023-01-17
+  - name: success
+    start: 2023-01-17
+    end: 2023-03-30
+  - name: transfer
+    start: 2023-03-30
 link: https://domifa.fabrique.social.gouv.fr
 repository: https://github.com/SocialGouv/domifa
 stats: true
@@ -19,11 +27,11 @@ contact: contact.domifa@fabrique.social.gouv.fr
 usertypes:
   - association
   - collectivite-territoriale
-dashlord_url: https://socialgouv.github.io/dashlord-fabrique/url/domifa-fabrique-social-gouv-fr/
+dashlord_url: >-
+  https://socialgouv.github.io/dashlord-fabrique/url/domifa-fabrique-social-gouv-fr/
 accessibility_status: non conforme
 ---
-
-## Qu’est-ce que la domiciliation ? 
+## Qu’est-ce que la domiciliation, test ? 
 
 **La domiciliation est un premier pas vers l’accès aux droits des personnes sans domicile stable.**
 Elle leur permet de disposer d'une adresse administrative où recevoir leur courrier et de faire valoir leurs droits civils, civiques et sociaux (comme la délivrance d’un titre national d’identité, l’inscription sur les listes électorales, l’accès à des aides sociales…).
