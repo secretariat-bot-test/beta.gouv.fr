@@ -12,7 +12,12 @@ phases:
     start: 2018-03-19
   - name: construction
     start: 2018-03-19
-events: 
+  - name: acceleration
+    start: 2020-12-31
+    end: 2023-04-11
+  - name: investigation
+    start: 2023-04-11
+events:
   - name: national_impact
     date: 2021-12-31
 link: https://labonnealternance.pole-emploi.fr
@@ -26,10 +31,10 @@ usertypes:
   - particulier
   - entreprise
   - etablissement-scolaire
-dashlord_url: https://dashlord.incubateur.net/url/labonnealternance-apprentissage-beta-gouv-fr/
+dashlord_url: >-
+  https://dashlord.incubateur.net/url/labonnealternance-apprentissage-beta-gouv-fr/
 ---
-
-[La bonne alternance](https://labonnealternance.apprentissage.beta.gouv.fr/) est un service destiné à faciliter la mise en relation des jeunes, des centres de formation d’apprentis (CFA) et des entreprises. D’abord développé par Pôle emploi, le service La bonne alternance a été repris en 2020 par la Mission interministérielle pour l’apprentissage et les trajectoires professionnelles dans l’objectif de renforcer l'accompagnement des jeunes intéressés par l'apprentissage, ainsi que des CFA et recruteurs accueillant des apprentis.
+[La bonne alternance](https://labonnealternance.apprentissage.beta.gouv.fr/) test est un service destiné à faciliter la mise en relation des jeunes, des centres de formation d’apprentis (CFA) et des entreprises. D’abord développé par Pôle emploi, le service La bonne alternance a été repris en 2020 par la Mission interministérielle pour l’apprentissage et les trajectoires professionnelles dans l’objectif de renforcer l'accompagnement des jeunes intéressés par l'apprentissage, ainsi que des CFA et recruteurs accueillant des apprentis.
 
 ## Le constat
 
@@ -43,7 +48,7 @@ Une entrée en alternance résulte d’un accord entre un candidat, un employeur
 La plateforme La bonne alternance a été consolidée par différentes données et fonctionnalités. 
 Concernant les données, sont maintenant exposés : 
 - Les offres de formation en apprentissage, issues du [catalogue des formations en apprentissage](https://catalogue.apprentissage.beta.gouv.fr/) ;
-- Les besoins exprimés par de très petites entreprises (TPE) ou des petites et moyennes entreprises (PME) auprès de leur opérateur de compétences (OPCO) ou de sites partenaires grâce [au service de dépôt d'offres simplifié de La bonne alternance](https://labonnealternance.pole-emploi.fr/acces-recruteur) ;
+- Les besoins exprimés par de très petites entreprises (TPE) ou des petites et moyennes entreprises (PME) auprès de leur opérateur de compétences (OPCO) ou de sites partenaires grâce [au service de dépôt d'offres simplifié de La bonne alternance](https://labonnealternance.apprentissage.beta.gouv.fr/acces-recruteur) ;
 - Les offres d’emploi en alternance, issues de [l’API “offres d’emploi”](https://pole-emploi.io/data/api/offres-emploi) de Pôle emploi ;
 - Les entreprises auprès desquelles adresser une candidature spontanée, identifiées grâce à un algorithme prédictif de Pôle emploi, rendant accessible le marché caché de l’emploi en analysant les recrutements passés pour prédire ceux à venir.
 
