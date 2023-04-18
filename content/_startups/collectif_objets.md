@@ -5,14 +5,13 @@ sponsors:
   - /organisations/mc
 incubator: culture
 link: https://collectif-objets.beta.gouv.fr/
-repository: https://github.com/betagouv/collectif-objets
 contact: collectifobjets@beta.gouv.fr
 usertypes:
   - collectivite-territoriale
   - particulier
-stats_url: https://collectif-objets.beta.gouv.fr/stats
 stats: true
-budget_url: https://pad.incubateur.net/s/qeT5bzHUM#Minist%C3%A8re-de-la-culture-atelier-num%C3%A9rique
+budget_url: >-
+  https://pad.incubateur.net/s/qeT5bzHUM#Minist%C3%A8re-de-la-culture-atelier-num%C3%A9rique
 phases:
   - name: construction
     start: 2020-04-01
@@ -20,8 +19,7 @@ phases:
   - name: acceleration
     start: 2022-09-28
 ---
-
-# Soutenir les communes dans la préservation de leur patrimoine
+# Soutenir les communes dans la préservation de leur patrimoines
 
 Des tapisseries de la cathédrale de Langres à la machine à vapeur d'Arc-en-Barrois, en passant par les statues de Vierge à l'Enfant dans nos églises de campagne, plus de **260 000 objets monuments historiques sont disséminés dans toute la France.**
 
