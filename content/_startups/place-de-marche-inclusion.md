@@ -1,12 +1,12 @@
 ---
 title: Marché de l'inclusion (ITOU)
-mission: Promouvoir l'offre commerciale des structures inclusives pour accroître
-  leur capacité d'embauche
+mission: >-
+  Promouvoir l'offre commerciale des structures inclusives pour accroître leur
+  capacité d'embauche
 sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei
 incubator: gip-inclusion
-repository: https://github.com/betagouv/itou-marche
 contact: lemarche@inclusion.beta.gouv.fr
 stats_url: https://lemarche.inclusion.beta.gouv.fr/stats/
 link: https://lemarche.inclusion.beta.gouv.fr
@@ -22,6 +22,7 @@ usertypes:
   - entreprise
 dashlord_url: https://dashlord.incubateur.net/url/lemarche-inclusion-beta-gouv-fr/
 accessibility_status: non conforme
+pitch: Aider les structures inclusives à développer leur chiffre d’affaires test
 ---
 
 **Problème**
