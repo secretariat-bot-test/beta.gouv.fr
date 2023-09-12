@@ -1,0 +1,18 @@
+---
+link: http://testendev.beta.gouv.fr
+dashlord_url: https://dashlord.gouv.fr/testendev
+mission: Une mission pour test en dev
+stats_url: https://stats.beta.gouv.fr/testendev
+repository: https://github.com/testendev
+incubator: anct
+sponsors:
+  - /organisations/action-logement
+phases:
+  - start: 2020-01-31
+    name: acceleration
+  - start: 2020-01-31
+    name: acceleration
+  - start: 2020-01-31
+    name: acceleration
+---
+Un super produit pour test en dev
