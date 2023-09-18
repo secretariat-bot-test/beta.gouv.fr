@@ -1,8 +1,9 @@
 ---
 title: Work in France
 mission: La plateforme de demande d’autorisations provisoires de travail
-sponsors: 
-    - /organisations/mtei
+sponsors:
+  - /organisations/mtei
+  - /organisations/TDS
 incubator: sgmas
 phases:
   - name: investigation
@@ -18,35 +19,6 @@ stats: true
 contact: contact@workinfrance.beta.gouv.fr
 usertypes:
   - particulier
+stats_url: http://workinfrance.fr/stats
 ---
-
-Les étudiantes étrangères et les étudiants étrangers qui voudraient travailler en France, au-delà du mi-temps, doivent déposer une demande d'autorisation de travail en DIRECCTE<sup>1</sup>. C'est généralement une démarche critique pour le projet étudiant ; « pourrais-je rester en France, payer mes études, valider l'expérience professionnelle nécessaire à mon diplôme ? »
-
-**Important : le service Work in France n'existe plus**
-
-Depuis avril 2021, la délivrance des autorisations de travail (AT) et des autorisations provisoires de travail (APT) pour les travailleurs et étudiants non membres de l’UE s'effectue sur le nouveau service dématérialisé du ministère de l'Intérieur sur le site suivant : https://administration-etrangers-en-france.interieur.gouv.fr
-
-Afin de permettre aux services de terminer l’instruction des dossiers en cours, il n’est plus possible de déposer de nouveaux dossiers sur la plateforme Work in France depuis le 23 mars.
-
-
-**La demande d’autorisation de travail, ce parcours du combattant**
-
-La demande d’autorisation de travail et la réception de l’autorisation se font aujourd’hui par courrier, sans renseignement en direct sur l'avancement de la demande.
-
-Légitimement, les usagers à la recherche de réponses concrètes contactent la DIRECCTE, voire se déplacent, pour être tenus informés du statut de leur demande :
-
-> Avez-vous reçu ma demande ?
-> Quand vais-je recevoir mon autorisation de travail ?
-
-La lenteur de la procédure et son manque de transparence retardent ainsi la prise de poste et pénalisent l’entreprise qui n’est pas en mesure d’avoir une visibilité sur la validation du recrutement de son personnel.
-
-Les étudiantes et les étudiants constituent la majeure partie du public qui se déplace à l'accueil des DIRECCTE. Que ce soit par téléphone, par mail ou dans les accueils, les agents passent un temps considérable à répondre aux questions des usagers, au détriment du traitement normal des demandes d’autorisation de travail. Avec WorkInFrance, en traitant simplement la plupart des demandes, nous libérerons du temps de travail pour les agents.
-
-De plus, l’administration est en charge de l’ensemble des instructions des demandes d’autorisation, en réceptionnant des demandes en format papier (CERFA et pièces justificatives obligatoires) obligeant celles-ci à stocker des volumes conséquents de documents, et posant de surcroît des difficultés pour accéder à un dossier « en cours ».
-
-**WorkinFrance, un service public transparent et adapté au rythme des entreprises**
-
-WorkInFrance simplifie la démarche d’autorisation de travail des étudiantes et des étudiants en contrat d’apprentissage, en contrat de professionnalisation, les internes en médecine, et [les étudiants algériens soumis à l'accord franco-algérien du 27 décembre 1968](https://duckduckgo.com/?q=%C3%A9tudiants+alg%C3%A9riens&t=ffab&ia=web). Sur WorkinFrance, l'usager (entreprise ou salarié) trouvera une interface où déposer sa demande, avec une information sur l'état d'avancement de sa demande.
-
-
-<sup>1</sup> : Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi.
+Les%20%C3%A9tudiantes%20%C3%A9trang%C3%A8res%20et%20les%20%C3%A9tudiants%20%C3%A9trangers%20qui%20voudraient%20travailler%20en%20France%2C%20au-del%C3%A0%20du%20mi-temps%2C%20doivent%20d%C3%A9poser%20une%20demande%20d%27autorisation%20de%20travail%20en%20DIRECCTE%3Csup%3E1%3C%2Fsup%3E.%20C%27est%20g%C3%A9n%C3%A9ralement%20une%20d%C3%A9marche%20critique%20pour%20le%20projet%20%C3%A9tudiant%20%3B%20%C2%AB%20pourrais-je%20rester%20en%20France%2C%20payer%20mes%20%C3%A9tudes%2C%20valider%20l%27exp%C3%A9rience%20professionnelle%20n%C3%A9cessaire%20%C3%A0%20mon%20dipl%C3%B4me%20%3F%20%C2%BB%0A%0A%2A%2AImportant%20%3A%20le%20service%20Work%20in%20France%20n%27existe%20plus%2A%2A%0A%0ADepuis%20avril%202021%2C%20la%20d%C3%A9livrance%20des%20autorisations%20de%20travail%20%28AT%29%20et%20des%20autorisations%20provisoires%20de%20travail%20%28APT%29%20pour%20les%20travailleurs%20et%20%C3%A9tudiants%20non%20membres%20de%20l%E2%80%99UE%20s%27effectue%20sur%20le%20nouveau%20service%20d%C3%A9mat%C3%A9rialis%C3%A9%20du%20minist%C3%A8re%20de%20l%27Int%C3%A9rieur%20sur%20le%20site%20suivant%20%3A%20https%3A%2F%2Fadministration-etrangers-en-france.interieur.gouv.fr%0A%0AAfin%20de%20permettre%20aux%20services%20de%20terminer%20l%E2%80%99instruction%20des%20dossiers%20en%20cours%2C%20il%20n%E2%80%99est%20plus%20possible%20de%20d%C3%A9poser%20de%20nouveaux%20dossiers%20sur%20la%20plateforme%20Work%20in%20France%20depuis%20le%2023%20mars.%0A%0A%0A%2A%2ALa%20demande%20d%E2%80%99autorisation%20de%20travail%2C%20ce%20parcours%20du%20combattant%2A%2A%0A%0ALa%20demande%20d%E2%80%99autorisation%20de%20travail%20et%20la%20r%C3%A9ception%20de%20l%E2%80%99autorisation%20se%20font%20aujourd%E2%80%99hui%20par%20courrier%2C%20sans%20renseignement%20en%20direct%20sur%20l%27avancement%20de%20la%20demande.%0A%0AL%C3%A9gitimement%2C%20les%20usagers%20%C3%A0%20la%20recherche%20de%20r%C3%A9ponses%20concr%C3%A8tes%20contactent%20la%20DIRECCTE%2C%20voire%20se%20d%C3%A9placent%2C%20pour%20%C3%AAtre%20tenus%20inform%C3%A9s%20du%20statut%20de%20leur%20demande%20%3A%0A%0A%3E%20Avez-vous%20re%C3%A7u%20ma%20demande%20%3F%0A%3E%20Quand%20vais-je%20recevoir%20mon%20autorisation%20de%20travail%20%3F%0A%0ALa%20lenteur%20de%20la%20proc%C3%A9dure%20et%20son%20manque%20de%20transparence%20retardent%20ainsi%20la%20prise%20de%20poste%20et%20p%C3%A9nalisent%20l%E2%80%99entreprise%20qui%20n%E2%80%99est%20pas%20en%20mesure%20d%E2%80%99avoir%20une%20visibilit%C3%A9%20sur%20la%20validation%20du%20recrutement%20de%20son%20personnel.%0A%0ALes%20%C3%A9tudiantes%20et%20les%20%C3%A9tudiants%20constituent%20la%20majeure%20partie%20du%20public%20qui%20se%20d%C3%A9place%20%C3%A0%20l%27accueil%20des%20DIRECCTE.%20Que%20ce%20soit%20par%20t%C3%A9l%C3%A9phone%2C%20par%20mail%20ou%20dans%20les%20accueils%2C%20les%20agents%20passent%20un%20temps%20consid%C3%A9rable%20%C3%A0%20r%C3%A9pondre%20aux%20questions%20des%20usagers%2C%20au%20d%C3%A9triment%20du%20traitement%20normal%20des%20demandes%20d%E2%80%99autorisation%20de%20travail.%20Avec%20WorkInFrance%2C%20en%20traitant%20simplement%20la%20plupart%20des%20demandes%2C%20nous%20lib%C3%A9rerons%20du%20temps%20de%20travail%20pour%20les%20agents.%0A%0ADe%20plus%2C%20l%E2%80%99administration%20est%20en%20charge%20de%20l%E2%80%99ensemble%20des%20instructions%20des%20demandes%20d%E2%80%99autorisation%2C%20en%20r%C3%A9ceptionnant%20des%20demandes%20en%20format%20papier%20%28CERFA%20et%20pi%C3%A8ces%20justificatives%20obligatoires%29%20obligeant%20celles-ci%20%C3%A0%20stocker%20des%20volumes%20cons%C3%A9quents%20de%20documents%2C%20et%20posant%20de%20surcro%C3%AEt%20des%20difficult%C3%A9s%20pour%20acc%C3%A9der%20%C3%A0%20un%20dossier%20%C2%AB%C2%A0en%20cours%C2%A0%C2%BB.%0A%0A%2A%2AWorkinFrance%2C%20un%20service%20public%20transparent%20et%20adapt%C3%A9%20au%20rythme%20des%20entreprises%2A%2A%0A%0AWorkInFrance%20simplifie%20la%20d%C3%A9marche%20d%E2%80%99autorisation%20de%20travail%20des%20%C3%A9tudiantes%20et%20des%20%C3%A9tudiants%20en%20contrat%20d%E2%80%99apprentissage%2C%20en%20contrat%20de%20professionnalisation%2C%20les%20internes%20en%20m%C3%A9decine%2C%20et%20%5Bles%20%C3%A9tudiants%20alg%C3%A9riens%20soumis%20%C3%A0%20l%27accord%20franco-alg%C3%A9rien%20du%2027%20d%C3%A9cembre%201968%5D%28https%3A%2F%2Fduckduckgo.com%2F%3Fq%3D%25C3%25A9tudiants%2Balg%25C3%25A9riens%26t%3Dffab%26ia%3Dweb%29.%20Sur%20WorkinFrance%2C%20l%27usager%20%28entreprise%20ou%20salari%C3%A9%29%20trouvera%20une%20interface%20o%C3%B9%20d%C3%A9poser%20sa%20demande%2C%20avec%20une%20information%20sur%20l%27%C3%A9tat%20d%27avancement%20de%20sa%20demande.%0A%0A%0A%3Csup%3E1%3C%2Fsup%3E%20%3A%20Direction%20r%C3%A9gionale%20des%20entreprises%2C%20de%20la%20concurrence%2C%20de%20la%20consommation%2C%20du%20travail%20et%20de%20l%27emploi.%0A
