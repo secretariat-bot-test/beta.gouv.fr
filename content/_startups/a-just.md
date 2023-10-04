@@ -1,14 +1,15 @@
 ---
 title: A-JUST
-mission: Aider les juridictions dans l'affectation de leurs ressources humaines
-  pour réduire les délais de justice.
+mission: >-
+  Aider les juridictions dans l'affectation de leurs ressources humaines pour
+  réduire les délais de justice.
 sponsors:
   - /organisations/mj
   - /organisations/igj
 incubator: justice
 repository: https://github.com/betagouv/a-just
 contact: contact@a-just.fr
-accessibility_status: non conforme
+accessibility_status: partiellement conforme
 usertypes:
   - etat
 events: []
@@ -16,14 +17,20 @@ phases:
   - name: investigation
     start: 2021-02-01
     end: 2021-05-26
-    comment: Fin de l'investigation. GO pour le lancement d'une phase de construction.
   - name: construction
     start: 2021-09-01
-    comment: Construction sur un périmètre de juridictions restreint.
+  - name: acceleration
+    start: 2022-11-30
+link: https://a-just.beta.gouv.fr
+dashlord_url: https://dashlord.incubateur.net/url/a-just-beta-gouv-fr/
+stats_url: https://a-just.beta.gouv.fr/stats
+analyse_risques_url: http://totodasda.com
 ---
 <!--StartFragment-->
 
 ## **Contexte**
+
+[Voir la vidéo de présentation de la démarche](https://vimeo.com/788314426)
 
 La dernière enquête ministérielle sur le fonctionnement de la Justice et la satisfaction des personnes ayant eu un contact direct avec elle a révélé que **95% des français la considéraient trop lente**.
 
@@ -61,7 +68,6 @@ En effet, même si la durée globale d’une affaire dépend significativement d
 
 La diminution de la durée des procédures nécessite donc l’adaptation des moyens affectés à leur traitement aux besoins de justice locaux.
 
-
 ***Le problème des juridictions* : comment répondre au mieux aux besoins de justice locaux ?**  
 
 Les tribunaux sont des organisations complexes, devant traiter un volume et une diversité considérables de contentieux¹, en mobilisant des effectifs nombreux et diversifiés².
@@ -74,11 +80,13 @@ Or, si la durée de traitement des procédures est particulièrement suivie par 
 
 ## **La solution en construction**
 
-***Lancement de la construction***
+[Voir la vidéo de présentation du produit](https://vimeo.com/788716513)
+
+***Lancement de la phase d'accélération***
 
 Suite à l’investigation menée début 2021, la construction a démarré le 1er septembre 2021. Le sponsor est le chef de l’Inspection Générale de la Justice.
 
-L’équipe dédiée travaille en autonomie à la co-construction avec des juridictions test d’une première version du service.
+Une deuxième phase d'accélération a été validée le 13 juillet 2023, accompagnée par le [FAST.](https://beta.gouv.fr/fast/)
 
 ***L’objectif***
 
@@ -87,14 +95,6 @@ A-JUST vise à offrir aux justiciables des délais plus courts de prise en charg
 Pour cela, A-JUST a pour objectif de permettre aux juridictions de visualiser et d’anticiper l’impact de leurs affectations d’effectifs sur les délais de prise en charge des contentieux.
 
 Visualisation, corrélation, simulation… A-JUST se définit comme un outil  d’aide à la décision et de prospective.
-
-
-***Les premières étapes***
-
-L’équipe A-JUST se concentre sur l’expérimentation, sur un périmètre réduit, dans quelques tribunaux judiciaires, de la possibilité de :
-* visualiser en temps réel les effectifs de la juridiction et leur affectation par contentieux
-* calculer et afficher deux indicateurs (capacité de traitement, délai) parlants pour l’ensemble des acteurs (juridiction, citoyens…)
-* simuler l'impact d'une variation d'effectifs sur la capacité et les délais de traitement des contentieux.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
