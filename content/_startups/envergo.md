@@ -6,7 +6,6 @@ sponsors:
 incubator: mtes
 link: https://envergo.beta.gouv.fr
 repository: https://github.com/MTES-MCT/envergo
-contact: contact@envergo.beta.gouv.fr
 usertypes:
   - collectivite-territoriale
   - entreprise
@@ -14,10 +13,13 @@ stats: true
 events: []
 phases:
   - name: investigation
-    end: 2021-07-12
     start: 2021-04-08
+    end: 2021-07-12
   - name: construction
     start: 2021-07-13
+  - start: 2023-12-14
+    name: acceleration
+stats_url: https://envergo.beta.gouv.fr/stats
 ---
 ![](/img/netlifycms/screenshot.2022-06-22.at.12.46.58.png)
 
@@ -78,4 +80,5 @@ Le succès du concept repose à ce stade sur plusieurs hypothèses qui sont à v
 Afin de valider celles-ci, une version minimum viable d’EnvErgo est déployée depuis juillet 2021. Elle est utilisée dans le cadre d’expérimentations avec plusieurs collectivités :
 
 * en examinant les projets de permis de construire déjà déposés qui semblent potentiellement concernés par la Loi sur l’eau.
-* en contactant les porteurs de projet, les informant via EnvErgo, le cas échéant, en quoi leur projet peut être soumis à la Loi sur l’eau, et quelle procédure suivre pour être en règle.
+* en contactant les porteurs de projet, les informant via EnvErgo, le cas échéant, en quoi leur projet peut être soumis à la Loi sur l’eau, et quelle procédure suivre pour être en règle. 
+* test
