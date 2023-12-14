@@ -14,10 +14,13 @@ stats: true
 events: []
 phases:
   - name: investigation
-    end: 2021-07-12
     start: 2021-04-08
+    end: 2021-07-12
   - name: construction
     start: 2021-07-13
+  - name: acceleration
+    start: 2023-12-14
+stats_url: https://envergo.beta.gouv.fr/stats
 ---
 ![](/img/netlifycms/screenshot.2022-06-22.at.12.46.58.png)
 
