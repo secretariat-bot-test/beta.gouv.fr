@@ -1,5 +1,5 @@
 ---
-title: La Bonne Alternance
+title: La bonne alternance
 mission: Faciliter la mise en relation entre jeunes, entreprises et CFA
 sponsors:
   - /organisations/menjs
@@ -12,12 +12,16 @@ phases:
     start: 2018-03-19
   - name: construction
     start: 2018-03-19
-events: 
+  - name: acceleration
+    start: 2020-12-31
+  - start: 2024-01-23
+    name: transfer
+events:
   - name: national_impact
     date: 2021-12-31
-link: https://labonnealternance.pole-emploi.fr
+link: https://labonnealternance.apprentissage.beta.gouv.fr
 repository: https://github.com/mission-apprentissage/labonnealternance
-stats_url: https://labonnealternance.pole-emploi.fr/stats
+stats_url: https://labonnealternance.apprentissage.beta.gouv.fr/stats
 stats: true
 contact: labonnealternance@apprentissage.beta.gouv.fr
 redirect_from:
@@ -26,10 +30,11 @@ usertypes:
   - particulier
   - entreprise
   - etablissement-scolaire
-dashlord_url: https://dashlord.incubateur.net/url/labonnealternance-apprentissage-beta-gouv-fr/
+dashlord_url: >-
+  https://dashlord.incubateur.net/url/labonnealternance-apprentissage-beta-gouv-fr/
+accessibility_status: non conforme
 ---
-
-[La bonne alternance](https://labonnealternance.apprentissage.beta.gouv.fr/) est un service destiné à faciliter la mise en relation des jeunes, des centres de formation d’apprentis (CFA) et des entreprises. D’abord développé par Pôle emploi, le service La bonne alternance a été repris en 2020 par la Mission interministérielle pour l’apprentissage et les trajectoires professionnelles dans l’objectif de renforcer l'accompagnement des jeunes intéressés par l'apprentissage, ainsi que des CFA et recruteurs accueillant des apprentis.
+[La bonne alternance](https://labonnealternance.apprentissage.beta.gouv.fr/) est un service destiné à faciliter la mise en relation des jeunes, des centres de formation d’apprentis (CFA) et des entreprises. D’abord développé par Pôle emploi, le service La bonne alternance a été repris en 2020 par la Mission interministérielle pour l’apprentissage dans l’objectif de renforcer l'accompagnement des jeunes intéressés par l'apprentissage, ainsi que des CFA et recruteurs accueillant des apprentis.
 
 ## Le constat
 
@@ -43,7 +48,7 @@ Une entrée en alternance résulte d’un accord entre un candidat, un employeur
 La plateforme La bonne alternance a été consolidée par différentes données et fonctionnalités. 
 Concernant les données, sont maintenant exposés : 
 - Les offres de formation en apprentissage, issues du [catalogue des formations en apprentissage](https://catalogue.apprentissage.beta.gouv.fr/) ;
-- Les besoins exprimés par de très petites entreprises (TPE) ou des petites et moyennes entreprises (PME) auprès de leur opérateur de compétences (OPCO) ou de sites partenaires grâce [au service de dépôt d'offres simplifié de La bonne alternance](https://labonnealternance.pole-emploi.fr/acces-recruteur) ;
+- Les besoins exprimés par de très petites entreprises (TPE) ou des petites et moyennes entreprises (PME) auprès de leur opérateur de compétences (OPCO) ou de sites partenaires grâce [au service de dépôt d'offres simplifié de La bonne alternance](https://labonnealternance.apprentissage.beta.gouv.fr/acces-recruteur) ;
 - Les offres d’emploi en alternance, issues de [l’API “offres d’emploi”](https://pole-emploi.io/data/api/offres-emploi) de Pôle emploi ;
 - Les entreprises auprès desquelles adresser une candidature spontanée, identifiées grâce à un algorithme prédictif de Pôle emploi, rendant accessible le marché caché de l’emploi en analysant les recrutements passés pour prédire ceux à venir.
 
@@ -53,13 +58,13 @@ Concernant les fonctionnalités, sont développés :
 - [Un service d’envoi de candidatures “Je candidate”](https://mission-apprentissage.gitbook.io/general/les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage/faciliter-et-simplifier-la-mise-en-relation-entre-candidats-et-entreprises) : sans création de compte, les candidats peuvent postuler auprès des entreprises qui les intéressent, aussi bien sur les offres d’emploi que sur les entreprises ciblées par nos algorithmes et auprès desquelles il est possible d’émettre une candidature spontanée - ce service offre ensuite aux recruteurs une solution de réponse rapide aux candidats ;
 - [Des modules d’accompagnement](https://mission-apprentissage.gitbook.io/general/les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage/accompagner-les-futurs-apprentis) à la prise de contact avec un CFA, la recherche d’une entreprise d’accueil ou encore la préparation à un entretien d’embauche sont proposés sur le parcours des jeunes pour les aider à concrétiser leur envie d’entrer en alternance.
 
-Par ailleurs, afin de faciliter l’accompagnement des parties prenantes de l’alternance, le service La bonne alternance existe sous forme d’API et de widget. Tout ou partie des données sont ainsi exposées sur les sites particulièrement consultés par les jeunes (Parcoursup, Affelnet, 1 jeune 1 solution, ONISEP, ...) ou ceux utilisés par les entreprises (sites des OPCO, de partenaires institutionnels). La documentation sur les API et widgets est à retrouver [ici](https://api.gouv.fr/les-api/api-la-bonne-alternance).
+Par ailleurs, afin de faciliter l’accompagnement des parties prenantes de l’alternance, le service La bonne alternance existe sous forme d’API et de widget. Tout ou partie des données sont ainsi exposées sur les sites particulièrement consultés par les jeunes (Parcoursup, Affelnet, 1 jeune 1 solution, ONISEP, ...) ou ceux utilisés par les entreprises (le Portail de l'alternance, sites des OPCO, de partenaires institutionnels). La documentation sur les API et widgets est à retrouver [ici](https://api.gouv.fr/les-api/api-la-bonne-alternance).
 
 
 ## Les bénéfices attendus
 
 Pour les jeunes et les acteurs qui les accompagnent : 
-- Centraliser l’offre de formation et d’emploi en alternance, afin de faire gagner du temps à l’utilisateur sur sa recherche d’information ;
+- Centraliser l’offre de formation et d’emploi en alternance, afin de faire gagner du temps à l’utilisateur sur sa recherche d’information;
 - Outiller les démarches de candidatures auprès des CFA et des recruteurs, afin de faciliter le passage à l’action ;
 
 Pour les entreprises : 
