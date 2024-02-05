@@ -10,9 +10,9 @@ missions:
     status: admin
     employer: DINUM
   - start: 2022-01-04
-    end: 2023-01-08
+    end: 2024-03-20
     status: independent
-    employer: Benext
+    employer: Scopyleft
 previously:
   - aides.jeunes
 memberType: beta
@@ -23,5 +23,8 @@ competences:
   - Développement Frontend
 teams:
   - /teams/communaute-dinum
+startups:
+  - 1000.jours
+  - 1000.premiers.jours.blues
 ---
 Développeur Web Fullstack
