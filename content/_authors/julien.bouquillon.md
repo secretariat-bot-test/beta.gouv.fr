@@ -1,4 +1,5 @@
 ---
+hello: world
 fullname: Julien Bouquillon
 role: Tech lead
 domaine: Développement
@@ -12,7 +13,10 @@ missions:
     employer: affaires-sociales
 teams:
   - /teams/sgmas
-
+something: important
+another:
+  - truc
+  - bidule
 ---
 
 Make it work, make it right, make it fast
