@@ -1,18 +1,18 @@
 ---
 fullname: Lucas Charrier
 domaine: Développement
-role: Développeur
+role: Développeur Fullstack
 github: LucasCharrier
 link: https://lucascharrier.com/
 missions:
-  - start: 2021-01-04
-    end: 2022-01-03
+  - start: '2021-01-04'
+    end: '2022-01-03'
     status: admin
     employer: DINUM
-  - start: 2022-01-04
-    end: 2023-01-08
+  - start: '2022-01-04'
+    end: '2024-03-20'
     status: independent
-    employer: Benext
+    employer: Scopyleft
 previously:
   - aides.jeunes
 memberType: beta
