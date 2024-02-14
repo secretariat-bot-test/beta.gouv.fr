@@ -1,15 +1,15 @@
 ---
 fullname: Julien Dauphant
-role: Intrapreneur Tchap
-link: 'https://twitter.com/jdauphant'
+role: Directeur Technique et Produits
+link: https://twitter.com/jdauphant
 github: jdauphant
 missions:
-  - employer: octo
-    start: 2016-11-03
-    end: 2019-08-31
+  - start: '2024-02-01T00:00:00.000Z'
+    end: '2024-02-08T00:00:00.000Z'
     status: independent
-  - start: 2019-09-01
-    end: 2025-08-31
+    employer: octo
+  - start: '2024-02-08T00:00:00.000Z'
+    end: '2024-02-25T00:00:00.000Z'
     status: admin
     employer: dinum
 startups:
@@ -21,6 +21,9 @@ previously:
   - signalement
   - plante-et-moi
   - e-controle
+  - tchap
+  - authentification
+  - audioconf
 badges:
   - segur
 domaine: Animation
@@ -30,5 +33,7 @@ competences:
   - Administration Système
   - Développement Frontend
   - Développement Backend
+teams:
+  - /teams/animation-dinum
 ---
-Chercheur de simplicité
+Chercheur en simplicité
