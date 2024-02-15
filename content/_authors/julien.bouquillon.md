@@ -20,6 +20,7 @@ something: important
 another:
   - truc
   - bidule
+link: https://free.fr
 ---
 Make it work, make it right, make it fast
 Make it blue
