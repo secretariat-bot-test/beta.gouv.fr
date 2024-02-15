@@ -5,14 +5,14 @@ role: Développeur
 github: LucasCharrier
 link: https://lucascharrier.com/
 missions:
-  - start: 2021-01-04
-    end: 2022-01-03
+  - start: '2021-01-04T00:00:00.000Z'
+    end: '2022-01-03T00:00:00.000Z'
     status: admin
     employer: DINUM
-  - start: 2022-01-04
-    end: 2023-01-08
+  - start: '2022-01-04T00:00:00.000Z'
+    end: '2024-03-20T00:00:00.000Z'
     status: independent
-    employer: Benext
+    employer: Scopyleft
 previously:
   - aides.jeunes
 memberType: beta
