@@ -20,7 +20,7 @@ previously:
   - signalement
 badges:
   - segur
-domaine: Coaching
+domaine: Développement
 competences:
   - Coaching
   - Gestion de Produit
