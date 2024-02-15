@@ -1,20 +1,16 @@
 ---
 hello: world
-fullname: Julien Bouquillon PR 123456789
-role: Responsable animation de la communauté tech
+fullname: Julien Bouquillon
+role: Tech lead
 domaine: Développement
 avatar: https://avatars1.githubusercontent.com/u/124937?s=460&v=4
 github: revolunet
-link: https://www.linkedin.com/in/julien-bouquillon-438b7819/
+link: https://free.fr
 missions:
   - start: '2017-10-01T00:00:00.000Z'
-    end: '2023-12-27T00:00:00.000Z'
+    end: '2020-10-01T00:00:00.000Z'
     status: admin
     employer: affaires-sociales
-  - start: '2023-12-28T00:00:00.000Z'
-    end: '2026-12-28T00:00:00.000Z'
-    status: admin
-    employer: dinum
 teams:
   - /teams/animation-dinum
 something: important
