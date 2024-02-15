@@ -10,6 +10,8 @@ missions:
     end: '2020-10-01T00:00:00.000Z'
     status: admin
     employer: affaires-sociales
+    startups:
+      - codedutravail
 teams:
   - /teams/animation-dinum
 something: important
