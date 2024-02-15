@@ -12,6 +12,7 @@ missions:
     employer: affaires-sociales
     startups:
       - codedutravail
+      - domifa
 teams:
   - /teams/animation-dinum
 something: important
