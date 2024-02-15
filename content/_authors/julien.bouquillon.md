@@ -13,6 +13,7 @@ missions:
     startups:
       - codedutravail
       - domifa
+      - cmachance
 teams:
   - /teams/animation-dinum
 something: important
