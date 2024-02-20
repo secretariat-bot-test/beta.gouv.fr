@@ -10,8 +10,6 @@ missions:
     end: 2023-10-01
     status: admin
     employer: affaires-sociales
-    startups:
-      - codedutravail
 teams:
   - /teams/sgmas
 something: important
@@ -20,3 +18,4 @@ another:
   - bidule
 ---
 Make it work, make it right, make it fast
+From Source repo master 2
