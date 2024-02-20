@@ -1,7 +1,8 @@
 ---
 title: Accès Majeur Protégé
-mission: Faciliter la procédure de mise sous tutelle, curatelle et
-  d'habilitation familiale pour les familles et les mandataires.
+mission: >-
+  Faciliter la procédure de mise sous tutelle, curatelle et d'habilitation
+  familiale pour les familles et les mandataires.
 sponsors:
   - /organisations/mj
 incubator: justice
@@ -11,6 +12,9 @@ phases:
   - name: investigation
     start: 2022-06-29
     end: 2022-11-14
+  - name: alumni
+    start: 2022-10-31
+analyse_risques: true
 ---
 # **Contexte**
 
