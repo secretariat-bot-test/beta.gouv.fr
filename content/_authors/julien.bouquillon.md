@@ -1,6 +1,6 @@
 ---
 hello: world
-fullname: Julien Bouquillon 42
+fullname: Julien Bouquillon 423
 role: Tech lead
 domaine: Développement
 avatar: https://avatars1.githubusercontent.com/u/124937?s=460&v=4
@@ -17,5 +17,4 @@ another:
   - truc
   - bidule
 ---
-Make it work, make it right, make it fast
-From Source repo master
+Make it work, make it right, make it fast From Source repo master
