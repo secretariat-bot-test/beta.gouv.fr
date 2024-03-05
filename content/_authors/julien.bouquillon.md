@@ -26,5 +26,4 @@ another:
   - bidule
 ---
 Make it work, make it right, make it fast
-
 From Source repo master
