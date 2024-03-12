@@ -26,6 +26,8 @@ competences:
   - blabla
   - blablaaaa
   - UX
+  - Intrapreneur(se)
+  - Droit / Affaires juridiques
 ---
 Make it work, make it right, make it fast !
 From Source repo master
