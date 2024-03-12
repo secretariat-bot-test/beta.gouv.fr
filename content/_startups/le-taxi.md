@@ -1,8 +1,8 @@
 ---
 title: le.taxi
-mission: Un taxi, tout de suite !
+mission: Je veux un taxi
 sponsors:
-  - /organisations//organisations/dgitm
+  - /organisations//organisations//organisations/dgitm
 incubator: mtes
 phases:
   - name: investigation
