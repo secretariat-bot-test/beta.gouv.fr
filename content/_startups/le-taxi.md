@@ -2,7 +2,7 @@
 title: le.taxi
 mission: Un taxi, tout de suite !
 sponsors:
-  - /organisations/dgitm
+  - /organisations//organisations/dgitm
 incubator: mtes
 phases:
   - name: investigation
@@ -22,8 +22,8 @@ usertypes:
   - entreprise
 dashlord_url: https://mtes-mct.github.io/dashlord/url/le-taxi/
 accessibility_status: non conforme
+analyse_risques: true
 ---
-
 le.taxi, c'est plus de 60 000 chauffeurs en France, métropolitaine et Outre-Mer, partout sur le territoire, de la plus petite commune à la plus grande métropole que l'on peut solliciter pour une course immédiate à l'aide de son smartphone.
 
 Disponibilité
