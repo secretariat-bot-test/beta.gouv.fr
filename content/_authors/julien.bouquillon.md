@@ -23,8 +23,7 @@ another:
 link: https://www.linkedin.com/in/julien-bouquillon-438b7819/
 competences:
   - Développement
-  - UX
-  - couture
+  - blabla
 ---
 Make it work, make it right, make it fast !
 From Source repo master
