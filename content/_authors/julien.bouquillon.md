@@ -21,6 +21,8 @@ another:
   - truc
   - bidule
 link: https://www.linkedin.com/in/julien-bouquillon-438b7819/
+competences:
+  - Développement
 ---
 Make it work, make it right, make it fast !
 From Source repo master
