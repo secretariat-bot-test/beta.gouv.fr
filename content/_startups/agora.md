@@ -1,5 +1,5 @@
 ---
-title: x
+title: Agora 2
 link: https://www.agora.gouv.fr/
 mission: La première appli fait dialoguer les citoyens et le Gouvernement
 repository: https://github.com/agora-gouv/agora-app
@@ -14,7 +14,6 @@ phases:
     end: 2023-01-26
   - name: construction
     start: 2023-04-03
-analyse_risques_url: http://free.Fr
 ---
 ## Contexte
 
