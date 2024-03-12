@@ -4,7 +4,7 @@ link: https://www.agora.gouv.fr/
 mission: La première appli fait dialoguer les citoyens et le Gouvernement
 repository: https://github.com/agora-gouv/agora-app
 sponsors:
-  - /organisations/ditp
+  - /organisations//organisations/ditp
 incubator: dinum
 contact: penelope.liot@beta.gouv.fr
 accessibility_status: non conforme
@@ -15,7 +15,7 @@ phases:
   - name: construction
     start: 2023-04-03
 ---
-## Contexte
+## Contexte 2
 
 Seulement 1 Français sur 4 pense que le système politique lui donne voix au chapitre sur la prise de décision du Gouvernement.
 Mais 3 Français sur 4 souhaitent pourvoir donner leur avis sur des thématiques concrètes et accessibles, qui font écho à leurs préoccupations quotidiennes, si un outil ludique et
