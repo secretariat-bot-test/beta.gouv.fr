@@ -21,6 +21,8 @@ badges:
 competences:
   - Développement Backend
   - Développement Frontend
+  - Facilitation
+  - Communication
 teams:
   - /teams/communaute-dinum
 bio: Développeur Web Fullstack
