@@ -7,6 +7,5 @@ missions:
     status: admin
     employer: Scopyleft
     startups:
-      - deveco
-      - devoirs-faits-communaute
+      - a-just
 ---
