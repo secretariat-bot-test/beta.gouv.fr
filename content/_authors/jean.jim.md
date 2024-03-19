@@ -9,4 +9,8 @@ missions:
     employer: Scopyleft
     startups:
       - acceslibre
+link: http://linkedin/paul.jim
+github: totosdadad
+username: jean.jim
 ---
+Test
