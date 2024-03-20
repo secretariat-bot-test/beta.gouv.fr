@@ -1,12 +1,10 @@
 ---
 domaine: Animation
 fullname: Paul Dumont
-role: Animation @avril
+role: Animation
 missions:
-  - start: 2024-03-14
-    end: 2025-06-15
-    status: independent
-    employer: Dev
-    startups:
-      - avril
+  - start: 2024-03-20
+    end: 2024-07-20
+    status: admin
+    employer: Scopyleft
 ---
