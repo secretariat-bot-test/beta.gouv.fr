@@ -9,4 +9,5 @@ missions:
     employer: Scopyleft
     startups:
       - aeris
+memberType: beta
 ---
