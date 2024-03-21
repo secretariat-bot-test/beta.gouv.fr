@@ -1,7 +1,7 @@
 ---
 fullname: Lucas Charrier
 domaine: Développement
-role: Développeur Fullstack
+role: Développement
 github: LucasCharrier
 link: https://lucascharrier.com/
 missions:
@@ -21,7 +21,8 @@ badges:
 competences:
   - Développement Backend
   - Développement Frontend
-  - Facilitation
+  - Product design
+  - UX
   - Communication
 teams:
   - /teams/communaute-dinum
