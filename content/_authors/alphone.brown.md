@@ -7,4 +7,5 @@ missions:
     end: 2025-04-21
     status: independent
     employer: ''
+memberType: beta
 ---
