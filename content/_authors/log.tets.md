@@ -9,4 +9,5 @@ missions:
     employer: Scopyleft
     startups:
       - a-dock
+memberType: beta
 ---
