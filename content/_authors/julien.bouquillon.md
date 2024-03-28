@@ -1,6 +1,6 @@
 ---
 fullname: Julien Bouquillon
-role: Responsable animation de la communauté tech
+role: Responsable de l'animation de la communauté tech
 domaine: Développement
 avatar: https://avatars1.githubusercontent.com/u/124937?s=460&v=4
 github: revolunet
