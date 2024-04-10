@@ -25,4 +25,4 @@ teams:
   - /teams/communaute-dinum
 bio: Développeur Web Fullstack
 ---
-test de l'annuaire
+test de l'annuaire test
