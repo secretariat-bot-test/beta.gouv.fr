@@ -13,6 +13,8 @@ missions:
     end: 2024-06-20
     status: independent
     employer: Scopyleft
+    startups:
+      - acceslibre
 previously:
   - aides.jeunes
 memberType: beta
@@ -25,4 +27,4 @@ teams:
   - /teams/communaute-dinum
 bio: Développeur Web Fullstack
 ---
-test de l'annuaire test test
+test de l'annuaire test test ssdadsadadsadada
