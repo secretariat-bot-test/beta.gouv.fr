@@ -27,4 +27,4 @@ teams:
   - /teams/communaute-dinum
 bio: Développeur Web Fullstack
 ---
-test de l'annuaire tututu
+test de l'annuaire tototo
