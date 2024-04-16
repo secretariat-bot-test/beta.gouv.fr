@@ -33,6 +33,7 @@ usertypes:
 stats_url: https://code.travail.gouv.fr/stats
 thematiques:
   - Travail / Emploi
+budget_url: https://code.travail.gouv.fr/budget
 ---
 ## Le contexte
 
