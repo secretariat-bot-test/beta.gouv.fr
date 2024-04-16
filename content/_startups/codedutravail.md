@@ -5,6 +5,7 @@ sponsors:
   - /organisations/dgt
   - /organisations/xxxx-1
   - /organisations/ccc-1
+  - /organisations/ccc-2
 incubator: sgmas
 phases:
   - name: investigation
