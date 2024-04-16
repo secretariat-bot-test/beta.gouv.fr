@@ -1,8 +1,10 @@
 ---
-title: Code du travail numérique
+title: Code du travail numérique 222
 mission: Faciliter l'accès au droit du travail pour les entreprises et les employés.
 sponsors:
   - /organisations/dgt
+  - /organisations/xxxx-1
+  - /organisations/ccc-1
 incubator: sgmas
 phases:
   - name: investigation
