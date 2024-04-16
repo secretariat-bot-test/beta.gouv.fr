@@ -30,9 +30,11 @@ techno:
 usertypes:
   - entreprise
   - particulier
+  - kikoo
 stats_url: https://code.travail.gouv.fr/stats
 thematiques:
   - Travail / Emploi
+  - plop
 budget_url: https://code.travail.gouv.fr/budget
 ---
 ## Le contexte
