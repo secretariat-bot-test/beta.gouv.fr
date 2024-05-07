@@ -1,7 +1,7 @@
 ---
 fullname: Lucas Charrier
 domaine: Développement
-role: Développement Test
+role: Développeur Fullstack
 github: LucasCharrier
 link: https://lucascharrier.com/
 missions:
@@ -13,8 +13,6 @@ missions:
     end: 2024-06-20
     status: independent
     employer: Scopyleft
-    startups:
-      - acceslibre
 previously:
   - aides.jeunes
 memberType: beta
@@ -23,8 +21,10 @@ badges:
 competences:
   - Développement Backend
   - Développement Frontend
+  - testeur
+  - Accessibilité
 teams:
   - /teams/communaute-dinum
 bio: Développeur Web Fullstack
 ---
-test de l'annuaire tototo
+Développeur Web Fullstack
