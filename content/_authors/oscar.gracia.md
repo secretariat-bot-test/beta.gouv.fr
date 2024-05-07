@@ -1,6 +1,6 @@
 ---
 domaine: Intraprenariat
-fullname: Lara Alberge
+fullname: Oscar Gracia
 role: Intraprenariat
 missions:
   - start: 2024-05-06
