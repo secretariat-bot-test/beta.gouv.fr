@@ -18,5 +18,6 @@ teams:
 previously:
   - cartobio
   - dialogue
+memberType: beta
 ---
 Concevoir pour toutes et tous
