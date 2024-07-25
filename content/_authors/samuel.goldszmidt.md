@@ -9,7 +9,7 @@ missions:
     status: admin
     employer: MTES-MCT
 teams:
-  - /teams/mtes
+  - mtes
 competences:
   - Product strategy
   - Facilitation

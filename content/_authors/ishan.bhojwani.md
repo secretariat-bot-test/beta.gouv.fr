@@ -10,7 +10,6 @@ missions:
   - start: 2017-09-01
     end: 2018-12-31
     status: independent
-    employer: ''
   - start: 2019-01-01
     end: 2025-02-28
     status: admin
@@ -35,6 +34,6 @@ previously:
 badges:
   - segur
 teams:
-  - /teams/animation-dinum
+  - animation-dinum
 ---
 Chef du département Incubateur de services numériques à la DINUM

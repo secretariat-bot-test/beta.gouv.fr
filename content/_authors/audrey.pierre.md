@@ -9,6 +9,6 @@ missions:
     employer: DTNUM
 memberType: autre
 teams:
-  - /teams/lab-mi
+  - lab-mi
 ---
 Cheffe de bureau BAOT

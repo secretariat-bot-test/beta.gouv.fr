@@ -14,5 +14,6 @@ missions:
 startups:
   - annuaire-entreprises
 memberType: autre
+teams: []
 ---
 DevOps, expert opensearch  SIMD computing

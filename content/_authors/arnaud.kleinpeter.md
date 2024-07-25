@@ -7,8 +7,8 @@ missions:
     end: 2015-03-31
     status: service
     employer: octo
-startups: null
 previously:
   - mes-aides
+teams: []
 ---
 Ex-mes-aides.

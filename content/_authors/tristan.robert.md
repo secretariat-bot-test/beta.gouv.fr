@@ -19,5 +19,10 @@ missions:
 previously:
   - filharmonic
 teams:
-  - /teams/mtes
+  - mtes
+competences:
+  - Développement Full-stack
+  - DevOps
+  - Sécurité informatique
+  - Administration Système
 ---

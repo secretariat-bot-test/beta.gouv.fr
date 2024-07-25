@@ -12,5 +12,5 @@ missions:
 startups:
   - nis2
 memberType: beta
+teams: []
 ---
-

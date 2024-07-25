@@ -13,7 +13,7 @@ missions:
     status: admin
     employer: GIP Plateforme de l'inclusion
 teams:
-  - /teams/gip-inclusion
+  - gip-inclusion
 previously:
   - les-emplois
   - la.communaute.de.linclusion

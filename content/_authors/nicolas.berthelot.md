@@ -16,6 +16,6 @@ missions:
 previously:
   - transport
 teams:
-  - /teams/fab-geocommuns
+  - fab-geocommuns
 ---
 Data & carto & mobilité

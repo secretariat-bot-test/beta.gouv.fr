@@ -8,12 +8,12 @@ missions:
   - start: 2019-05-01
     end: 2024-12-31
     status: independent
-    employer: ''
     startups:
       - aidantsconnect
 startups:
   - aidantsconnect
 previously:
   - eva
+teams: []
 ---
 designer multidisciplinaire, photographe & illustrateur

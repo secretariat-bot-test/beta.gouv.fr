@@ -15,6 +15,6 @@ startups:
   - france-numerique-ensemble
 badges:
   - segur
+teams: []
 ---
-
 Développeur Front End

@@ -8,8 +8,8 @@ missions:
     end: 2017-02-10
     status: service
     employer: octo
-startups: null
 previously:
   - api-entreprise
+teams: []
 ---
 Celui qui doute teste. Celui qui ne doute pas ne teste pas.

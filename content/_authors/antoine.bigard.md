@@ -9,10 +9,10 @@ missions:
     status: independent
     employer: ut7
     startups:
+      - api.apprentissage
+      - boite.aux.lettres
       - catalogue-apprentissage
       - dematapprentissage
-      - boite.aux.lettres
-      - api.apprentissage
 startups:
   - catalogue-apprentissage
   - dematapprentissage
@@ -24,5 +24,5 @@ competences:
   - Administration Système
   - Développeur full stack
 teams:
-  - /teams/mission-apprentissage
+  - mission-apprentissage
 ---

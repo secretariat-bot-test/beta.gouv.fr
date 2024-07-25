@@ -1,6 +1,6 @@
 ---
 domaine: Autre
-fullname: 'Florian Aubert'
+fullname: Florian Aubert
 role: Autre
 missions:
   - start: 2024-05-20
@@ -10,4 +10,5 @@ missions:
     startups:
       - reva
 memberType: beta
+teams: []
 ---

@@ -7,7 +7,6 @@ missions:
   - start: 2022-03-01
     end: 2024-12-31
     status: service
-    employer: ''
     startups:
       - snu
 startups:
@@ -15,5 +14,6 @@ startups:
 competences:
   - Développement Frontend
   - Développement Backend
+teams: []
 ---
 Développeur

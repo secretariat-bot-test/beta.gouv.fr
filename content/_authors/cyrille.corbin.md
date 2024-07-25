@@ -9,6 +9,6 @@ missions:
     status: admin
     employer: SNUM
 teams:
-  - /teams/justice
+  - justice
 ---
 Développeur FullStack expérimenté très curieux des nouvelles technologies de développement.

@@ -11,6 +11,6 @@ missions:
 previously:
   - expresso
 teams:
-  - /teams/atelier_meae
+  - atelier_meae
 ---
 Responsable de l'Atelier numérique du MEAE

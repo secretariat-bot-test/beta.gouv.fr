@@ -8,10 +8,10 @@ missions:
     status: admin
     employer: Ministère des armées
     startups:
+      - cassiopee
+      - civils-de-la-defense
       - octopus
       - oscars
-      - civils-de-la-defense
-      - cassiopee
 incubator: fabnumdef
 competences:
   - Gestion de Produit
@@ -20,4 +20,5 @@ startups:
   - oscars
   - civils-de-la-defense
   - cassiopee
+teams: []
 ---

@@ -7,10 +7,10 @@ missions:
   - start: 2024-02-28
     end: 2024-09-30
     status: independent
-    employer: ''
     startups:
       - pilotage.de.linclusion
 startups:
   - pilotage.de.linclusion
 memberType: beta
+teams: []
 ---

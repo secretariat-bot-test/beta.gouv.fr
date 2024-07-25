@@ -13,6 +13,6 @@ missions:
       - andi
 startups:
   - andi
-previously: null
+teams: []
 ---
 Je suis quelqu'un qui comprend très vite.. à condition de m'expliquer lentement...

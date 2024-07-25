@@ -15,7 +15,7 @@ missions:
     status: admin
     employer: DINUM
 teams:
-  - /teams/communaute-dinum
+  - communaute-dinum
 previously:
   - recosante
 link: https://www.linkedin.com/in/marinepurson/

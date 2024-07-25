@@ -7,9 +7,9 @@ missions:
     end: 2018-09-30
     status: service
     employer: octo
-startups: null
 previously:
   - pix
   - conseillers-entreprises
+teams: []
 ---
 :turtle: null

@@ -7,12 +7,12 @@ missions:
   - start: 2022-10-17
     end: 2024-12-01
     status: independent
-    employer: ''
     startups:
       - zero-logement-vacant
 startups:
   - zero-logement-vacant
 badges:
   - segur
+teams: []
 ---
 Développeur curieux

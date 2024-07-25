@@ -7,7 +7,7 @@ missions:
     end: 2016-10-14
     status: service
     employer: octo
-startups: null
 previously:
   - pix
+teams: []
 ---

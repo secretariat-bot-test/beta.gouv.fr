@@ -11,4 +11,6 @@ missions:
       - trackdechets
 startups:
   - trackdechets
+competences: []
+teams: []
 ---

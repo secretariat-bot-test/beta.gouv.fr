@@ -3,8 +3,6 @@ fullname: Stanislas Ormières
 role: Responsable technique du LAB-MI
 domaine: Animation
 github: laruiss
-avatar: null
-link: null
 missions:
   - start: 2018-11-01
     end: 2020-12-31
@@ -16,5 +14,6 @@ missions:
 startups:
   - candilib
   - psij
+teams: []
 ---
 Développeur Fullstack depuis 2005, JavaScript-only depuis 2013, Freelance depuis 2016. Vue.js advocate. Acrobate et cinéphage.

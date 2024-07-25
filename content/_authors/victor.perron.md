@@ -9,12 +9,13 @@ missions:
     status: independent
     employer: Malt
     startups:
+      - data-inclusion
       - les-emplois
       - pilotage.de.linclusion
-      - data-inclusion
 startups:
   - les-emplois
   - pilotage.de.linclusion
   - data-inclusion
+teams: []
 ---
 Développeur Python/Django & frontend & data engineering & devops

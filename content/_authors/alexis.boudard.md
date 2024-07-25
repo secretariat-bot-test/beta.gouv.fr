@@ -8,6 +8,6 @@ missions:
     status: admin
     employer: ANCT
 teams:
-  - /teams/anct
+  - anct
 memberType: beta
 ---

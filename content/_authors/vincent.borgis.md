@@ -8,6 +8,6 @@ missions:
     status: admin
     employer: DNUM Ministère Sociaux
 teams:
-  - /teams/sgmas
+  - sgmas
 ---
 Adjoint au chef de la Fabrique Numérique des Min Sociaux. What health ?! :-)

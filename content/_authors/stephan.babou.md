@@ -7,9 +7,9 @@ missions:
   - start: 2023-01-30
     end: 2023-10-30
     status: independent
-    employer: ''
 memberType: beta
 previously:
   - potentiel
+teams: []
 ---
 Coach produit @La Fabrique Numérique MTE

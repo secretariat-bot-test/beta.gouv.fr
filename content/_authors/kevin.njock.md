@@ -6,11 +6,11 @@ missions:
   - start: 2023-01-02
     end: 2024-12-31
     status: independent
-    employer: ''
     startups:
       - sante-psy-etudiant
 startups:
   - sante-psy-etudiant
 memberType: beta
+teams: []
 ---
 Ancien consultant, fan de cinema.

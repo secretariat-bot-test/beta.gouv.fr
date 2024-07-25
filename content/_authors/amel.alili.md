@@ -5,14 +5,16 @@ domaine: Animation
 github: amelalili
 missions:
   - start: 2022-09-01
-    end: 2024-08-29
+    end: 2024-09-30
     status: independent
     employer: scopyleft
 previously:
   - dossierfacile
   - tchap
 teams:
-  - /teams/communaute-dinum
+  - communaute-dinum
 badges:
   - segur
+competences:
+  - 'support '
 ---

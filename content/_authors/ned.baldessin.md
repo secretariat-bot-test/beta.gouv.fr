@@ -15,5 +15,6 @@ startups:
   - euphrosyne
   - pop
 teams:
-  - /teams/culture
+  - culture
+competences: []
 ---

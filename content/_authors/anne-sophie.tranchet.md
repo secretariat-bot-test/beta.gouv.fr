@@ -28,14 +28,12 @@ missions:
   - start: 2023-10-01
     end: 2026-09-30
     status: admin
-    employer: ''
-    startups: []
 competences:
   - UX
   - UI
   - Accessibilité
 teams:
-  - /teams/communaute-dinum
+  - communaute-dinum
 previously:
   - cartobio
   - dialogue

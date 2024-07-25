@@ -9,13 +9,13 @@ missions:
     status: admin
     employer: MTE/DGALN
     startups:
-        - vert.impact
+      - vert.impact
 previously:
   - camino
 badges:
   - segur
 teams:
-  - /teams/mtes
+  - mtes
 link: https://www.linkedin.com/in/levieuxguillaume/
 ---
 Toujours fan des volcans et de ceux qui vivent dessus.

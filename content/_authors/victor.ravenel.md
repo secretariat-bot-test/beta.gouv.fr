@@ -14,5 +14,6 @@ missions:
 startups:
   - snu
 memberType: beta
+teams: []
 ---
 Product Lead, Software Engineer & Couteau Suisse
