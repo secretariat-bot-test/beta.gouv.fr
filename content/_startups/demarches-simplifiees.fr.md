@@ -7,6 +7,12 @@ incubator: dinum_produits_interministeriels
 events:
   - name: national_impact
     date: 2018-01-01
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 30000€ pour la promotion 12
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 30000€ pour la promotion 12
 phases:
   - name: investigation
     start: 2015-09-15
