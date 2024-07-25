@@ -10,6 +10,12 @@ repository: https://github.com/tchapgouv
 events:
   - name: national_impact
     date: 2023-12-31
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 30000€ pour la promotion 12
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 30000€ pour la promotion 12
 phases:
   - name: construction
     start: 2021-01-01
@@ -25,7 +31,6 @@ thematiques:
   - Outil technique
 accessibility_status: non conforme
 ---
-
 ## Contexte
 
 Tchap s'est lancé en avril 2018 et compte aujourd'hui 235 000 utilisateurs. L'application est disponible sur Android, iOS et le web. Tchap est à destination de l'ensemble des agents des trois fonctions publiques (territoriale, hospitalière et centrale).
