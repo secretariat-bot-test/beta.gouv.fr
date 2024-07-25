@@ -1,6 +1,6 @@
 ---
 fullname: David Guirado
-role: Animation réseau AMDAC 
+role: Animation réseau AMDAC
 domaine: Animation
 missions:
   - start: 2023-12-01
@@ -8,5 +8,5 @@ missions:
     status: admin
     employer: DINUM
 memberType: dinum
+teams: []
 ---
-

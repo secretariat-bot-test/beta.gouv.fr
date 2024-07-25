@@ -17,8 +17,8 @@ missions:
 startups:
   - urbanvitaliz
   - recommandations-collaboratives
-badges: null
 competences:
   - Communication
   - Administration Publique
+teams: []
 ---

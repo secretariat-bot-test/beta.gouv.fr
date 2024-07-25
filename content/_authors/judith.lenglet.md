@@ -14,5 +14,5 @@ startups:
 previously:
   - trackdechets
 teams:
-  - /teams/accelerateur-initiatives-citoyennes
+  - accelerateur-initiatives-citoyennes
 ---

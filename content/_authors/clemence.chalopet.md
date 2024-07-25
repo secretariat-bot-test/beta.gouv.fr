@@ -11,5 +11,5 @@ missions:
 previously:
   - pass-culture
 teams:
-  - /teams/culture
+  - culture
 ---

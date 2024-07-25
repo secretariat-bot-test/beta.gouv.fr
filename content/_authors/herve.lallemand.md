@@ -11,10 +11,10 @@ missions:
       - l-immersion-facile
 previously:
   - l-immersion-facile
-badges: null
 competences:
   - Gestion de Produit
 startups:
   - l-immersion-facile
+teams: []
 ---
 Intrapreneur Pôle emploi - Co-pilote de la startup Immersion Facile

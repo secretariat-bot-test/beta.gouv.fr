@@ -16,8 +16,8 @@ missions:
     status: independent
     employer: OCTO
     startups:
-      - usine-chatbots
       - airvam
+      - usine-chatbots
   - start: 2022-01-01
     end: 2024-05-31
     status: independent
@@ -39,4 +39,5 @@ previously:
 competences:
   - Développement Frontend
   - Développement Backend
+teams: []
 ---

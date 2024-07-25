@@ -13,5 +13,5 @@ missions:
 startups:
   - ellesfontlaculture
 teams:
-  - /teams/culture
+  - culture
 ---

@@ -15,5 +15,5 @@ competences:
   - Administration Publique
   - Droit / Affaires juridiques
 teams:
-  - /teams/mtes
+  - mtes
 ---

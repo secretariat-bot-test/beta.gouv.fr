@@ -12,6 +12,6 @@ competences:
   - UX
   - UI
 teams:
-  - /teams/lab-mi
+  - lab-mi
 ---
 Je suis UX Designer au sein du Laboratoire d'Innovation du Ministère de l'Intérieur

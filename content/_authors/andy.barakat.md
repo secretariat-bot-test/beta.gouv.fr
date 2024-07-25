@@ -9,10 +9,10 @@ missions:
     status: admin
     employer: MTE-MCTRCT-Mer - DGALN
     startups:
-      - vigieau
       - vert.impact
+      - vigieau
 teams:
-  - /teams/mtes
+  - mtes
 startups:
   - vigieau
 ---

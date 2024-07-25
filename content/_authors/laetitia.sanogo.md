@@ -11,5 +11,5 @@ missions:
 startups:
   - moncomptepro
 memberType: autre
+teams: []
 ---
-

@@ -29,5 +29,5 @@ competences:
   - Gestion de Produit
   - Croissance
 teams:
-  - /teams/fast-dinum
+  - fast-dinum
 ---

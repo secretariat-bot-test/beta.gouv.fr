@@ -11,5 +11,6 @@ missions:
       - medistock
 memberType: autre
 link: https://www.linkedin.com/in/joelle-chong/
+teams: []
 ---
 Designer de services à l'ANSM

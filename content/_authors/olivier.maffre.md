@@ -9,11 +9,12 @@ missions:
     status: independent
     employer: Codeurs en Liberté
     startups:
+      - efti
       - le-taxi
       - railup
-      - efti
 startups:
   - le-taxi
   - railup
   - efti
+teams: []
 ---

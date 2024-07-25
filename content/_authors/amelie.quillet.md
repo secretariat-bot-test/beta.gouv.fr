@@ -9,8 +9,8 @@ missions:
     status: independent
     employer: LBC
     startups:
-      - urbanvitaliz
       - recommandations-collaboratives
+      - urbanvitaliz
 startups:
   - urbanvitaliz
   - recommandations-collaboratives
@@ -21,4 +21,5 @@ badges:
 competences:
   - Communication
   - Croissance
+teams: []
 ---

@@ -7,10 +7,10 @@ missions:
   - start: 2023-08-01
     end: 2024-10-31
     status: independent
-    employer: ''
     startups:
       - oilhi
 startups:
   - oilhi
 memberType: beta
+teams: []
 ---

@@ -14,6 +14,6 @@ missions:
     status: service
     employer: GIP de l'Inclusion
 teams:
-  - /teams/gip-inclusion
+  - gip-inclusion
 ---
 CTO du GIP de l'Inclusion. Co-founder & ex-CTO du GIP Pix. Coder. Streamer. Speaker. Writer. Papa pupuce.

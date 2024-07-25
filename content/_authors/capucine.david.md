@@ -1,6 +1,5 @@
 ---
 fullname: Capucine David
-github: null
 domaine: Déploiement
 role: Déploiement
 missions:
@@ -12,4 +11,5 @@ missions:
       - datagir
 startups:
   - datagir
+teams: []
 ---

@@ -17,5 +17,13 @@ startups:
   - pilotage.de.linclusion
 badges:
   - segur
+competences:
+  - Metabase
+  - Data Science
+  - dbt
+  - Python
+  - Matomo
+  - PostgreSQL
+teams: []
 ---
 Happy Data Analyste et NLPyste :D

@@ -22,6 +22,13 @@ phases:
 fast:
   promotion: 13
   montant: 300000
+events:
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 300000€ pour la promotion 13
+  - name: fast
+    date: 2024-01-01
+    comment: Montant de 300000€ pour la promotion 13
 ---
 ## Contexte
 

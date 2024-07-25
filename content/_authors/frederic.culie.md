@@ -14,6 +14,6 @@ badges:
 startups:
   - tchap
 teams:
-  - /teams/dinum_produits_interministeriels
+  - dinum_produits_interministeriels
 ---
 CISO DINUM

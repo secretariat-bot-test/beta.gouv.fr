@@ -18,4 +18,7 @@ competences:
   - PHP
   - PostgreSQL
 memberType: beta
+github: chloecorfmat
+link: https://www.linkedin.com/in/chloecorfmat/
+teams: []
 ---

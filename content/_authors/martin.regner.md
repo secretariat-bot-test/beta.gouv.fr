@@ -10,7 +10,7 @@ missions:
     status: admin
     employer: ADEME
 teams:
-  - /teams/ademe
+  - ademe
 previously:
   - datagir
   - nosgestesclimat

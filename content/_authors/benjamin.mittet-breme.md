@@ -8,5 +8,5 @@ missions:
     status: admin
 memberType: beta
 teams:
-  - /teams/anct
+  - anct
 ---

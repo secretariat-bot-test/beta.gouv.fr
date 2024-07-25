@@ -11,7 +11,7 @@ missions:
     startups:
       - suite.territoriale
 teams:
-  - /teams/anct
+  - anct
 startups:
   - suite.territoriale
 ---

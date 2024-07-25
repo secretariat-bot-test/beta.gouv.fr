@@ -10,7 +10,7 @@ missions:
     status: admin
     employer: IGN
 teams:
-  - /teams/fab-geocommuns
+  - fab-geocommuns
 memberType: beta
 ---
 Fabricant de géocommuns

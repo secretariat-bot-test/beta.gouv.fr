@@ -22,7 +22,7 @@ competences:
   - Accessibilité
   - UI
 teams:
-  - /teams/ademe
+  - ademe
 link: https://www.linkedin.com/in/lauradussier-design/
 ---
 Designeuse & dessinatrice, j’accompagne des entreprises, associations et startups du service public vers une des expériences usagers ou collaborateurices accessibles et pleines de panache. 

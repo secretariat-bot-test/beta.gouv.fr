@@ -12,5 +12,5 @@ missions:
 previously:
   - rdv-service-public
 teams:
-  - /teams/communaute-dinum
+  - communaute-dinum
 ---

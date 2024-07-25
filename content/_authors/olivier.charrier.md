@@ -11,7 +11,7 @@ missions:
       - psij
 startups:
   - psij
-badges: null
 competences:
   - Administration Publique
+teams: []
 ---

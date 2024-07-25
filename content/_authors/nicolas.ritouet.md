@@ -11,7 +11,7 @@ missions:
     employer: Incubateur des territoires
 memberType: beta
 teams:
-  - /teams/anct
+  - anct
 competences:
   - DevOps
   - Développement Full-stack

@@ -8,5 +8,5 @@ missions:
     status: admin
     employer: MTE-MCTRCT-Mer - DGALN
 teams:
-  - /teams/mtes
+  - mtes
 ---

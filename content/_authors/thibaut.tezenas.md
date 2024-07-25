@@ -14,5 +14,5 @@ missions:
 startups:
   - transition-ecologique-des-entreprises
 memberType: beta
+teams: []
 ---
-

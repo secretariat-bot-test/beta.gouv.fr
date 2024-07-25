@@ -10,7 +10,7 @@ missions:
     employer: DINUM
 memberType: beta
 teams:
-  - /teams/animation-dinum
+  - animation-dinum
 badges:
   - segur
 ---

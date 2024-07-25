@@ -7,10 +7,10 @@ missions:
     end: 2017-02-22
     status: service
     employer: octo
-startups: null
 previously:
   - mps
   - demarches-simplifiees.fr
   - api-entreprise
+teams: []
 ---
 La confiance n'exclut pas le contrôle.

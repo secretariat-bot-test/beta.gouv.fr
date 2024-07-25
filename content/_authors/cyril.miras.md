@@ -10,5 +10,5 @@ missions:
     employer: DGALN
 memberType: beta
 teams:
-  - /teams/mtes
+  - mtes
 ---

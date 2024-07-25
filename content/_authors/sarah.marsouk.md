@@ -8,9 +8,9 @@ missions:
     status: admin
     employer: MIOM
     startups:
-      - >-
-        gestion-et-pilotage-du-parc-d-hebergement-du-dispositif-national-d-acceuil
+      - gestion-et-pilotage-du-parc-d-hebergement-du-dispositif-national-d-acceuil
 competences:
   - Administration Publique
 memberType: beta
+teams: []
 ---
