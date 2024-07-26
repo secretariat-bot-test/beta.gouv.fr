@@ -16,5 +16,9 @@ startups:
 memberType: beta
 previously:
   - tdb-apprentissage
+competences:
+  - Data Analyse
+  - Metabase
+  - PostgreSQL
 ---
 Analyser des données, lire des romans et manger des croziflettes. SQL, MongoDB, Metabase...

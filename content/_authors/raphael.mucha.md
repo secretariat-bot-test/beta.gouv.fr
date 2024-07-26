@@ -12,4 +12,5 @@ missions:
 startups:
   - pacoupa
 memberType: beta
+competences: []
 ---
