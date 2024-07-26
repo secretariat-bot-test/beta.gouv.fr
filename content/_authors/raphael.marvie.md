@@ -6,11 +6,12 @@ missions:
     end: 2024-12-31
     status: independent
     startups:
-      - urbanvitaliz
       - recommandations-collaboratives
+      - urbanvitaliz
 startups:
   - urbanvitaliz
   - recommandations-collaboratives
 domaine: Développement
 github: rmarvie
+teams: []
 ---

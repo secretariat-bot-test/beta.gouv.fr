@@ -9,12 +9,12 @@ missions:
     status: admin
     employer: minarm
     startups:
-      - e-chauffeur
       - anais
-      - sepia
-      - metiis
-      - stargate
       - cassiopee
+      - e-chauffeur
+      - metiis
+      - sepia
+      - stargate
 startups:
   - e-chauffeur
   - anais
@@ -26,5 +26,6 @@ previously:
   - les-alpps
 competences:
   - Gestion de Produit
+teams: []
 ---
 Et PM à mes heures 😉

@@ -14,6 +14,6 @@ startups:
   - dossierfacile
 badges:
   - segur
+teams: []
 ---
-
 Chargée de déploiement, enthousiaste et dynamique.

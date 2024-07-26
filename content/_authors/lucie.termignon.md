@@ -8,4 +8,5 @@ missions:
     status: admin
     employer: Ministère de la Culture
 memberType: autre
+teams: []
 ---

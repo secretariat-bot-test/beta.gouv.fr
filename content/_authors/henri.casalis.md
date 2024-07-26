@@ -12,5 +12,6 @@ missions:
 startups:
   - homologation
 link: https://www.linkedin.com/in/henricasalis/
+teams: []
 ---
 Passionné d'expérience client le jour, pince sans rire la nuit

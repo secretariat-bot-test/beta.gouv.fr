@@ -6,10 +6,10 @@ missions:
   - start: 2024-02-12
     end: 2025-01-31
     status: independent
-    employer: ''
     startups:
       - trackdechets
 startups:
   - trackdechets
 memberType: autre
+teams: []
 ---

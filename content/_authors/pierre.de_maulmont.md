@@ -8,11 +8,12 @@ missions:
     status: admin
     employer: education-nationale
     startups:
-      - open-academie
       - dossiersco
+      - open-academie
 startups:
   - open-academie
   - dossiersco
+teams: []
 ---
 Sujet: Comment faire en sorte que la simplification administrative cesse d'être une
   incantation ? Vous avez 5 heures.

@@ -8,12 +8,12 @@ missions:
   - start: 2022-07-01
     end: 2024-12-31
     status: independent
-    employer: ''
     startups:
       - tdb-apprentissage
 startups:
   - tdb-apprentissage
 badges:
   - segur
+teams: []
 ---
 Designer UX/UI passionnée, facilitatrice, formatrice design thinking

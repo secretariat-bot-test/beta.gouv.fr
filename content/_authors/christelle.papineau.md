@@ -11,8 +11,8 @@ missions:
       - le-taxi
       - mesads
 startups:
-    - le-taxi
-    - mesads
+  - le-taxi
+  - mesads
 memberType: autre
+teams: []
 ---
-

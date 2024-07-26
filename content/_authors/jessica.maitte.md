@@ -7,12 +7,12 @@ missions:
   - start: 2022-11-02
     end: 2025-01-31
     status: independent
-    employer: ''
     startups:
       - api-engagement
 startups:
   - api-engagement
 badges:
   - segur
+teams: []
 ---
 Facilitatrice de projets

@@ -9,10 +9,11 @@ missions:
     end: 2024-12-31
     status: independent
     startups:
-      - transport
       - notifications
+      - transport
 startups:
   - transport
   - notifications
+teams: []
 ---
 Politiques publiques, humains, code

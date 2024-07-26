@@ -9,8 +9,8 @@ missions:
     end: 2023-12-31
     status: admin
     employer: DINUM
-startups: null
 badges:
   - segur
+teams: []
 ---
 En éveil le jour, en veille la nuit, pianiste entre deux.

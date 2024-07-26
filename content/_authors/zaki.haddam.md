@@ -10,5 +10,5 @@ missions:
 startups:
   - snu
 memberType: autre
+teams: []
 ---
-

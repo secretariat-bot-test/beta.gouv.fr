@@ -8,8 +8,8 @@ missions:
     status: independent
     employer: DINUM
 startups: []
-badges: null
 competences:
   - UI
+teams: []
 ---
 UI/UX Designer

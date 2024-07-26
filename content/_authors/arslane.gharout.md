@@ -20,5 +20,5 @@ startups:
 previously:
   - territoires-en-transitions
 memberType: beta
+teams: []
 ---
-

@@ -1,12 +1,10 @@
 ---
-title: Découvrir les formations professionnelles autour de vous
-mission: >-
-  Permettre la découverte des formations professionnelles à proximité d’un
-  établissement ou du domicile d’un collégien
+title: C'est qui le pro ?
+mission: Permettre la découverte des formations professionnelles à proximité d’un établissement ou du domicile d’un collégien
 sponsors:
   - /organisations/menjs
-  - /organisations/mtei
   - /organisations/mesr
+  - /organisations/mtei
   - /organisations/mtfp
 incubator: mission-inserjeunes
 redirect_from:
@@ -25,6 +23,7 @@ usertypes:
 thematiques:
   - Jeunesse
   - Formation
+techno: []
 ---
 ## Le problème
 
@@ -43,7 +42,7 @@ Pour cela, nous souhaitons :
 - faciliter la **découverte des formations professionnelles à proximité** (transports en commun, vélo, marche, etc.) ou accessibles (internat par exemple) ;
 - apporter des **éclairages sur les conditions d’accès** (taux de pression, places disponibles, aides, etc.), **le contenu** (répartition du temps, qualité de l’accompagnement, témoignages, etc.) et **le devenir des élèves** (poursuite d’étude, taux d’emploi, rémunérations, métiers en tension ou d’avenir, etc.) au sein de ces formations.
 
-## Les bénéfices
+## Les bénéfices attendus
 
 - Favoriser la création de **stratégies d’orientation réfléchies et motivées** ;
 - **Réduire le nombre d’orientations vers des filières “bouchées”** via l’accompagnement des accompagnateurs, notamment mettre en avant les filières porteuses et d’avenir ;
@@ -53,4 +52,4 @@ Pour cela, nous souhaitons :
 
 - Second semestre 2024 : développement du MVP et tests dans 5 à 10 établissements en régions Île-de-France et Bretagne
 - Premier semestre 2025 : consolidation de la solution numérique et déploiement national
-- Second semestre 2025 : intégration aux outils et dispositifs nationaux, dont Avenir(s)****
+- Second semestre 2025 : intégration aux outils et dispositifs nationaux, dont Avenir(s)

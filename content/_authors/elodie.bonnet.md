@@ -6,10 +6,10 @@ missions:
   - start: 2022-01-01
     end: 2024-12-31
     status: admin
-    employer: ''
     startups:
       - pilotage.de.linclusion
 startups:
   - pilotage.de.linclusion
+teams: []
 ---
 Responsable du service IAE Haute-Garonne et intrapreneuse au sein du GIP Plateforme de l'inclusion !
