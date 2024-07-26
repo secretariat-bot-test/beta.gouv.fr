@@ -1,12 +1,10 @@
 ---
-title: Découvrir les formations professionnelles autour de vous
-mission: >-
-  Permettre la découverte des formations professionnelles à proximité d’un
-  établissement ou du domicile d’un collégien
+title: C'est qui le pro ?
+mission: Permettre la découverte des formations professionnelles à proximité d’un établissement ou du domicile d’un collégien
 sponsors:
   - /organisations/menjs
-  - /organisations/mtei
   - /organisations/mesr
+  - /organisations/mtei
   - /organisations/mtfp
 incubator: mission-inserjeunes
 redirect_from:
@@ -25,6 +23,7 @@ usertypes:
 thematiques:
   - Jeunesse
   - Formation
+techno: []
 ---
 ## Le problème
 
@@ -53,4 +52,4 @@ Pour cela, nous souhaitons :
 
 - Second semestre 2024 : développement du MVP et tests dans 5 à 10 établissements en régions Île-de-France et Bretagne
 - Premier semestre 2025 : consolidation de la solution numérique et déploiement national
-- Second semestre 2025 : intégration aux outils et dispositifs nationaux, dont Avenir(s)****
+- Second semestre 2025 : intégration aux outils et dispositifs nationaux, dont Avenir(s)
