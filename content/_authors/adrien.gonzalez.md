@@ -2,7 +2,6 @@
 fullname: Adrien Gonzalez
 role: Développeur
 domaine: Développement
-link: null
 missions:
   - start: 2018-02-12
     end: 2020-01-01
@@ -11,4 +10,5 @@ missions:
       - e-mjpm
 startups:
   - e-mjpm
+teams: []
 ---

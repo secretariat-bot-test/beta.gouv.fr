@@ -9,10 +9,11 @@ missions:
     status: service
     employer: OCTO Technology
     startups:
-      - reva
       - codedutravail
+      - reva
 startups:
   - reva
   - codedutravail
+teams: []
 ---
 Data scientist / data engineer voulant démystifier la data auprès des startups

@@ -8,13 +8,12 @@ missions:
     status: independent
     employer: Malt
     startups:
-      - jeveuxaider
-      - demarches-simplifiees.fr
       - api-engagement
+      - demarches-simplifiees.fr
+      - jeveuxaider
   - start: 2024-03-18
     end: 2024-12-31
     status: independent
-    employer: ''
     startups:
       - sirius
       - vigieau
@@ -31,5 +30,6 @@ competences:
   - Machine learning
   - Python
   - Data Science
+teams: []
 ---
 Expert du machine learning et de la data-science, je modélise, explicite et intègre toutes solutions à partir de vos données métiers afin de vous faire gagner le temps utile pour ceux et celles qui comptent vraiment.

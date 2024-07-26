@@ -7,8 +7,8 @@ missions:
     end: 2017-04-21
     status: independent
     employer: red-innovation
-startups: null
 previously:
   - boussole
+teams: []
 ---
 Citoyenne qui souhaite donner du sens à la technologie, dans la bonne humeur.

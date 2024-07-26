@@ -11,5 +11,5 @@ missions:
 startups:
   - mon-entreprise
 memberType: autre
+teams: []
 ---
-

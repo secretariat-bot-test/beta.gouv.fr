@@ -23,7 +23,7 @@ startups:
   - dedale
 previously:
   - cartobio
-badges: null
 competences:
   - Coaching
+teams: []
 ---

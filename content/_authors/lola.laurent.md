@@ -6,9 +6,9 @@ missions:
   - start: 2022-11-01
     end: 2023-12-31
     status: admin
-    employer: ''
     startups:
       - encyclopedie-des-metiers
 startups:
   - encyclopedie-des-metiers
+teams: []
 ---

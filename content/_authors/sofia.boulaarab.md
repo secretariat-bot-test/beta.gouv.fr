@@ -9,10 +9,10 @@ missions:
     status: independent
     employer: Mission interministérielle pour l'apprentissage
     startups:
-      - catalogue-apprentissage
-      - uai_siret
       - api.apprentissage
+      - catalogue-apprentissage
       - tdb-apprentissage
+      - uai_siret
 startups:
   - catalogue-apprentissage
   - uai_siret
@@ -21,4 +21,5 @@ previously:
 competences:
   - UX
   - UI
+teams: []
 ---

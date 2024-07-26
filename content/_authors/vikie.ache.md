@@ -19,4 +19,5 @@ previously:
 competences:
   - Communication
   - Gestion de Produit
+teams: []
 ---

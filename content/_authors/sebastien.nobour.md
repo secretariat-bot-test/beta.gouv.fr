@@ -18,5 +18,5 @@ competences:
   - Développement Full-stack
   - JavaScript/TypeScript
   - PostgreSQL
+teams: []
 ---
-

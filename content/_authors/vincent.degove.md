@@ -7,11 +7,11 @@ missions:
   - start: 2023-06-19
     end: 2024-09-17
     status: independent
-    employer: ''
     startups:
       - transport
 startups:
   - transport
 memberType: beta
+teams: []
 ---
 Travailleur du numérique, transports à toutes les sauces.

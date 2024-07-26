@@ -13,6 +13,6 @@ startups:
   - dossierfacile
 badges:
   - segur
+teams: []
 ---
-
 Hello! Étudiant en L3 à HEC, je suis chargé de déploiement pour DossierFacile.
