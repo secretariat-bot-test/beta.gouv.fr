@@ -13,10 +13,10 @@ missions:
     end: 2022-06-30
     status: independent
     employer: La Zone
-startups: null
 previously:
   - carnet.de.bord
 competences:
   - UX
+teams: []
 ---
 Designer, chercheure et enseignante et co-fondatrice de l'Atelier des chercheurs.

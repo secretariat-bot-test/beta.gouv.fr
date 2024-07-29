@@ -6,8 +6,8 @@ missions:
   - start: 2023-04-24
     end: 2025-12-30
     status: admin
-    employer: ''
     startups:
       - aigle
 memberType: beta
+teams: []
 ---

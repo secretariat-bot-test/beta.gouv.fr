@@ -2,7 +2,6 @@
 fullname: Nicolas Prod'homme
 role: Stagiaire
 domaine: Autre
-avatar: null
 missions:
   - start: 2019-01-24
     end: 2019-06-14
@@ -12,6 +11,6 @@ missions:
       - dossierfacile
 startups:
   - dossierfacile
+teams: []
 ---
-
 Hauts les cœurs et soyons bons !

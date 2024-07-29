@@ -11,5 +11,7 @@ missions:
       - perspectives
 startups:
   - perspectives
+competences: []
+teams: []
 ---
 En recherche constante de nouvelles solutions et d'innovations. Persuadé que la personne est plus importante que le CV.

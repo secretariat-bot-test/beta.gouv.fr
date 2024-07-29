@@ -13,5 +13,5 @@ missions:
 startups:
   - homologation
 memberType: beta
+teams: []
 ---
-

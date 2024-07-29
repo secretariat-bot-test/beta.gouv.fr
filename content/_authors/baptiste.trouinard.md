@@ -10,7 +10,7 @@ missions:
 startups: []
 previously:
   - snu
-badges: null
 competences:
   - Gestion de Produit
+teams: []
 ---

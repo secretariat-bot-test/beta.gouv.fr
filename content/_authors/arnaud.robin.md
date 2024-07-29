@@ -10,7 +10,13 @@ missions:
     employer: DINUM
 memberType: beta
 teams:
-  - /teams/animation-dinum
   - /teams/fast-dinum
+  - /teams/animation-dinum
+competences:
+  - Data Science
+  - Administration Publique
+  - Croissance
+  - Machine learning
+  - Product strategy
 ---
 Chargé d'accélération FAST

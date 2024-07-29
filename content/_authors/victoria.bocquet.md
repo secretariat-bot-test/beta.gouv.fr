@@ -6,7 +6,6 @@ missions:
   - start: 2024-04-03
     end: 2024-09-03
     status: independent
-    employer: ''
     startups:
       - pv.facile
 link: https://www.linkedin.com/in/victoriabocquet/
@@ -17,4 +16,5 @@ competences:
   - Facilitation
   - Product strategy
   - Coaching
+teams: []
 ---

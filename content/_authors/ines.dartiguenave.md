@@ -9,12 +9,13 @@ missions:
     status: independent
     employer: NUMA
     startups:
-      - mon-diagnostic-artificialisation
       - docurba
+      - mon-diagnostic-artificialisation
 startups:
   - mon-diagnostic-artificialisation
   - docurba
 competences:
   - Coaching
   - Product strategy
+teams: []
 ---

@@ -25,6 +25,6 @@ previously:
   - mes-aides
   - api.gouv.fr
   - geo.data.gouv.fr
-badges: null
+teams: []
 ---
 Repenser l'administration avec le numérique pour améliorer le service public

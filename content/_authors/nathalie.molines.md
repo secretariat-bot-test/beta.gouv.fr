@@ -12,5 +12,5 @@ missions:
 startups:
   - partaj
 memberType: beta
+teams: []
 ---
-

@@ -9,8 +9,8 @@ missions:
     status: independent
     employer: octo
     startups:
-      - didoc
       - archifiltre
+      - didoc
       - zero-logement-vacant
 startups:
   - didoc
@@ -20,4 +20,5 @@ previously:
   - domifa
   - workinfrance
   - medle
+teams: []
 ---

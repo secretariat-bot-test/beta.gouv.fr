@@ -7,7 +7,6 @@ missions:
   - start: 2024-03-20
     end: 2024-09-20
     status: independent
-    employer: ''
     startups:
       - aides.jeunes
 startups:
@@ -16,5 +15,6 @@ memberType: beta
 link: https://www.linkedin.com/in/jeremy-pastouret/
 competences:
   - Développement Full-stack
+teams: []
 ---
 Passionné par l'éco-conception des services numériques

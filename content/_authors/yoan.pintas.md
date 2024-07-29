@@ -7,8 +7,8 @@ missions:
     status: independent
     employer: Malt
     startups:
-      - tchap
       - suite-numerique
+      - tchap
 competences:
   - Développement Frontend
   - Sécurité informatique
@@ -22,5 +22,6 @@ role: Architecte Technique Mobile - Référent Matrix
 link: https://www.linkedin.com/in/yoan-pintas-51280783/
 startups:
   - tchap
+teams: []
 ---
 Passionné par les nouvelles technologies et voyageurs.

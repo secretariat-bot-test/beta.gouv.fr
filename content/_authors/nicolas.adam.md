@@ -6,7 +6,7 @@ missions:
   - start: 2024-05-27
     end: 2024-12-31
     status: independent
-    employer: 'Pathtech'
+    employer: Pathtech
     startups:
       - transport
 competences:
@@ -14,4 +14,5 @@ competences:
   - Facilitation
   - Coaching
 memberType: beta
+teams: []
 ---

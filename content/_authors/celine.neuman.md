@@ -13,5 +13,5 @@ missions:
 startups:
   - suite.territoriale
 memberType: beta
+teams: []
 ---
-
