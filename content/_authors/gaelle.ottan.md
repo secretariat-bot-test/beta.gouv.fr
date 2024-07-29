@@ -12,5 +12,5 @@ missions:
       - eva
 startups:
   - eva
-previously: null
+teams: []
 ---

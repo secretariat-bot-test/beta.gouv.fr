@@ -6,11 +6,11 @@ missions:
   - start: 2023-01-03
     end: 2025-07-30
     status: admin
-    employer: ''
     startups:
       - tacct
 memberType: beta
 startups:
   - tacct
+teams: []
 ---
 🐎 à cheval... sur les détails

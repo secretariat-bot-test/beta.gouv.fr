@@ -6,8 +6,8 @@ missions:
   - start: 2024-06-14
     end: 2025-06-14
     status: admin
-    employer: ''
     startups:
       - compte.ressources
 memberType: beta
+teams: []
 ---

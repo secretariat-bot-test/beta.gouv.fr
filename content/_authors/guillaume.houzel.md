@@ -8,9 +8,9 @@ missions:
     end: 2022-12-31
     status: admin
     startups:
-      - la-bonne-alternance
       - catalogue-apprentissage
       - dematapprentissage
+      - la-bonne-alternance
       - sirius
       - tdb-apprentissage
       - uai_siret
@@ -23,4 +23,5 @@ startups:
   - tdb-apprentissage
   - uai_siret
   - voeux-apprentissage
+teams: []
 ---

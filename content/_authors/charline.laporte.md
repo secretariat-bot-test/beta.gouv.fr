@@ -13,5 +13,6 @@ missions:
       - sndv_maritime
 startups:
   - sndv_maritime
+teams: []
 ---
 Développeuse web front-end

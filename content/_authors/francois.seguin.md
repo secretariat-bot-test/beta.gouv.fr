@@ -7,7 +7,6 @@ missions:
   - start: 2020-10-01
     end: 2024-12-31
     status: service
-    employer: ''
     startups:
       - pass-culture
 startups:
@@ -15,4 +14,5 @@ startups:
 memberType: beta
 competences:
   - Développement Backend
+teams: []
 ---

@@ -7,7 +7,6 @@ missions:
   - start: 2023-02-15
     end: 2024-02-28
     status: independent
-    employer: ''
     startups:
       - exposition-ij
       - investigation-ij
@@ -15,5 +14,6 @@ startups:
   - exposition-ij
   - investigation-ij
 memberType: beta
+teams: []
 ---
 PO le jour, bénévole la nuit.

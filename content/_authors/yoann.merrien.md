@@ -9,9 +9,10 @@ missions:
     status: independent
     employer: Malt
     startups:
-      - moncomptepro
       - bases.adresses.locales
+      - moncomptepro
 startups:
   - moncomptepro
   - bases.adresses.locales
+teams: []
 ---

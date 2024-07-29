@@ -8,8 +8,8 @@ missions:
     end: 2017-06-30
     status: independent
     employer: evoluchain
-startups: null
 previously:
   - mdph
+teams: []
 ---
 « Soyez le changement que vous voulez voir dans le monde », Gandhi
