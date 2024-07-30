@@ -2,7 +2,6 @@
 fullname: Emmanuel Gaillot
 role: Développeur
 domaine: Développement
-link: null
 github: egaillot
 missions:
   - start: 2018-10-24
@@ -26,5 +25,6 @@ startups:
 previously:
   - eva
   - homologation
+teams: []
 ---
 Programmeur extrême & codexhibitionniste.

@@ -18,6 +18,6 @@ previously:
 badges:
   - segur
 teams:
-  - /teams/animation-dinum
   - /teams/fast-dinum
+  - /teams/animation-dinum
 ---

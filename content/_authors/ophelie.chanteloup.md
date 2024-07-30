@@ -6,6 +6,6 @@ missions:
   - start: 2023-02-01
     end: 2025-03-31
     status: service
-    employer: ''
 memberType: dinum
+teams: []
 ---

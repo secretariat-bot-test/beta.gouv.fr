@@ -8,16 +8,15 @@ missions:
   - start: 2019-06-17
     end: 2024-12-31
     status: independent
-    employer: ''
     startups:
       - bpco
+      - maison.de.lautisme
       - mano
       - monpsy
       - monsuivipsy
       - nata
       - ozensemble
       - recosante
-      - maison.de.lautisme
 startups:
   - ozensemble
   - monpsy
@@ -28,4 +27,5 @@ startups:
   - nata
 competences:
   - Coaching
+teams: []
 ---

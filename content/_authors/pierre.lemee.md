@@ -14,5 +14,6 @@ startups:
   - apilos
 badges:
   - segur
+teams: []
 ---
 Artisan développeur

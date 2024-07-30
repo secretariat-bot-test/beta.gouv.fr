@@ -7,8 +7,8 @@ missions:
     end: 2017-10-31
     status: service
     employer: octo
-startups: null
 previously:
   - conseillers-entreprises
+teams: []
 ---
 Simplifier, gamifier, donner du feedback, être bienveillant !

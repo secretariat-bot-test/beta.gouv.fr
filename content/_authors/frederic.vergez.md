@@ -19,4 +19,11 @@ missions:
       - dora
 startups:
   - dora
+competences:
+  - Développement Backend
+  - Développement Full-stack
+  - PostgreSQL
+  - Python
+  - Metabase
+teams: []
 ---

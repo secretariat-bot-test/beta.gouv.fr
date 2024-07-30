@@ -10,9 +10,8 @@ missions:
     status: independent
     employer: numa
     startups:
-      - cnr
-      - demarches-simplifiees.fr
-      - tchap
+      - l-immersion-facile
+      - sites-faciles
 startups:
   - cnr
   - demarches-simplifiees.fr
@@ -33,13 +32,17 @@ badges:
   - segur
 domaine: Coaching
 competences:
-  - Croissance
   - Coaching
   - Gestion de Produit
   - Développement Frontend
   - Communication
+  - SEO
+  - Product strategy
+  - PHP
+  - SEM
+  - Croissance
 teams:
-  - /teams/communaute-dinum
   - /teams/fast-dinum
+  - /teams/communaute-dinum
 ---
 Accélérateur de startups d'État. Acquisition, Activation, Retention, Referral, Impact 👊

@@ -7,10 +7,10 @@ missions:
   - start: 2022-06-20
     end: 2024-12-31
     status: independent
-    employer: ''
     startups:
       - territoires-en-transitions
 startups:
   - territoires-en-transitions
+teams: []
 ---
 Développeur Front-End

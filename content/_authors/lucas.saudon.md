@@ -1,7 +1,7 @@
 ---
 domaine: Développement
 fullname: Lucas Saudon
-role: Développement
+role: Développeur Mobile
 missions:
   - start: 2024-05-13
     end: 2024-12-31
@@ -14,4 +14,5 @@ github: lsaudon
 competences:
   - Développement Frontend
 memberType: beta
+teams: []
 ---

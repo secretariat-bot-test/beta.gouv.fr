@@ -7,6 +7,6 @@ missions:
     end: 2024-07-05
     status: admin
     employer: Fabrique numérique
-    startups: []
 memberType: beta
+teams: []
 ---

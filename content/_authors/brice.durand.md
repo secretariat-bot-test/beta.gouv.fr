@@ -16,5 +16,6 @@ previously:
   - monstage
 competences:
   - Gestion de Produit
-  - Développement Fullstack
+  - Développement Full-stack
+teams: []
 ---

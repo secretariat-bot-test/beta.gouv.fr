@@ -7,9 +7,9 @@ missions:
   - start: 2022-02-21
     end: 2022-08-01
     status: independent
-startups: null
 previously:
   - api.gouv.fr
 badges:
   - segur
+teams: []
 ---

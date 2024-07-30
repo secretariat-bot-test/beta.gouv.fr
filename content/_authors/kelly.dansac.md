@@ -6,12 +6,11 @@ missions:
   - start: 2023-06-05
     end: 2024-09-30
     status: independent
-    employer: ""
     startups:
       - dossierfacile
 startups:
   - dossierfacile
 memberType: beta
+teams: []
 ---
-
 Opératrice de validation chez DossierFacile

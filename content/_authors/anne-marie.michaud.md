@@ -6,6 +6,6 @@ missions:
   - start: 2023-04-24
     end: 2023-10-31
     status: admin
-    employer: ''
 memberType: autre
+teams: []
 ---

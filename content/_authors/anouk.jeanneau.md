@@ -9,11 +9,12 @@ missions:
     status: independent
     employer: Little big connection
     startups:
-      - urbanvitaliz
       - recommandations-collaboratives
+      - urbanvitaliz
 startups:
   - urbanvitaliz
   - recommandations-collaboratives
 badges:
   - segur
+teams: []
 ---

@@ -7,8 +7,8 @@ missions:
   - start: 2022-06-21
     end: 2025-09-30
     status: service
-    employer: ''
 badges:
   - segur
+teams: []
 ---
 Conseillère en création et développement d'activité chez Omnicité.
