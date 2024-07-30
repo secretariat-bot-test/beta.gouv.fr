@@ -12,5 +12,5 @@ competences:
   - SSI
   - cybersécurité
   - Analyse de risques
+link: https://www.linkedin.com/in/fbusi
 ---
-

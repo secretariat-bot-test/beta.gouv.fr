@@ -1,20 +1,14 @@
 ---
 fullname: Fantine Monot
-role: Product owner
-domaine: Produit
+role: Product management
+domaine: Déploiement
 missions:
   - start: 2022-06-24
-    end: 2024-06-15
+    end: 2024-09-02
     status: independent
     employer: UT-7
     startups:
       - collectif_objets
-  - start: 2024-06-24
-    end: 2024-12-31
-    status: independent
-    employer: Malt
-    startups:
-      - icare-complements-alimentaires
 startups:
   - collectif_objets
 badges:

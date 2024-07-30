@@ -15,4 +15,6 @@ teams:
   - /teams/communaute-dinum
 badges:
   - segur
+competences:
+  - 'support '
 ---

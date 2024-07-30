@@ -6,7 +6,6 @@ sponsors:
 incubator: mtes
 contact: amandine.collard@mer.gouv.fr
 accessibility_status: non conforme
-events: []
 phases:
   - name: investigation
     start: 2023-04-24
@@ -17,6 +16,10 @@ thematiques:
   - Écologie
   - Mer
   - Agriculture
+usertypes:
+  - entreprise
+  - collectivite-territoriale
+techno: []
 ---
 ## Contexte
 

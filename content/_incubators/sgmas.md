@@ -8,11 +8,10 @@ github: https://github.com/SocialGouv/
 contact: contact@fabrique.social.gouv.fr?subject=Incubateurs
 address: 39 quai andré Citroën, Paris 15e
 highlighted_startups:
-    - 1000.jours
-    - aides.jeunes
-    - mano
+  - 1000.jours
+  - aides.jeunes
+  - mano
 ---
-
 Lancé en 2017, la fabrique des ministères sociaux travaille à **faciliter la vie des citoyens et des agents**.
 
 Les intrapreneurs et intrapreneuses viennent de :

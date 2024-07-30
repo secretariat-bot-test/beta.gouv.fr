@@ -10,5 +10,10 @@ missions:
     startups:
       - potentiel
 link: https://fr.linkedin.com/in/violettemrqs
+competences:
+  - Développement Full-stack
+  - UX
+  - JavaScript/TypeScript
+  - PostgreSQL
 ---
 Développeuse Fullstack TS | Based in Lyon | ⛰️⛰️⛰️

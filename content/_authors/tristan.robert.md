@@ -10,8 +10,6 @@ missions:
     end: 2019-04-01
     status: admin
     employer: MTES-MCT
-    startups:
-      - filharmonic
   - start: 2020-09-01
     end: 2024-12-31
     status: admin
@@ -20,4 +18,9 @@ previously:
   - filharmonic
 teams:
   - /teams/mtes
+competences:
+  - Développement Full-stack
+  - DevOps
+  - Sécurité informatique
+  - Administration Système
 ---

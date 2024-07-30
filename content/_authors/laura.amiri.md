@@ -13,4 +13,5 @@ badges:
   - segur
 startups:
   - maison.de.lautisme
+competences: []
 ---

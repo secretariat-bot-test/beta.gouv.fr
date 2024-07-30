@@ -1,7 +1,7 @@
 ---
 fullname: Martin Ratinaud
 domaine: Développement
-role: Développeur
+role: Directeur Technique
 github: martinratinaud
 link: http://bit.ly/work-with-martin
 missions:
@@ -10,14 +10,8 @@ missions:
     status: independent
     employer: Ministère de l'Europe et des affaires étrangères
     startups:
-      - open-terms-archive
       - disinfo
-  - start: 2024-07-04
-    end: 2024-12-31
-    status: independent
-    employer: malt
-    startups:
-      - chauffage-urbain
+      - open-terms-archive
 startups:
   - chauffage-urbain
 previously:
