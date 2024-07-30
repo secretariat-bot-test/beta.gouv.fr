@@ -15,7 +15,8 @@ missions:
     end: 2024-09-21
     status: independent
     employer: Numa
-    startups: []
+    startups:
+      - acces-cible
 startups:
   - resorption-bidonvilles
 competences:
@@ -24,5 +25,6 @@ competences:
   - Facilitation
   - Product design
   - Accessibilité
+teams: []
 ---
 Designer, j'améliore l’expérience des agents et usagers du Service Public

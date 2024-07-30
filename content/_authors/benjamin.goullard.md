@@ -14,4 +14,5 @@ startups:
 badges:
   - segur
 memberType: beta
+teams: []
 ---

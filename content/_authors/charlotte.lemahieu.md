@@ -13,5 +13,5 @@ memberType: beta
 competences:
   - Intrapreneur(se)
   - 'lean management; process '
+teams: []
 ---
-

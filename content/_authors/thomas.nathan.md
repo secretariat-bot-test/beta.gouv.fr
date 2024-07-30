@@ -7,7 +7,6 @@ missions:
   - start: 2024-04-04
     end: 2024-07-04
     status: independent
-    employer: ''
 startups:
   - recosante
 badges:
@@ -15,4 +14,5 @@ badges:
 previously:
   - dossierfacile
 memberType: beta
+teams: []
 ---

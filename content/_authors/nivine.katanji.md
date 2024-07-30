@@ -7,11 +7,11 @@ missions:
   - start: 2022-07-11
     end: 2025-01-31
     status: independent
-    employer: ''
     startups:
       - jeveuxaider
 startups:
   - jeveuxaider
 badges:
   - segur
+teams: []
 ---

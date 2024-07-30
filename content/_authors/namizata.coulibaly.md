@@ -8,8 +8,8 @@ missions:
     status: independent
     employer: ANCT
     startups:
-      - france-numerique-ensemble
       - cartographie.nationale
+      - france-numerique-ensemble
 startups:
   - france-numerique-ensemble
   - cartographie.nationale
@@ -21,4 +21,5 @@ competences:
 previously:
   - france-numerique-ensemble
   - cartographie.nationale
+teams: []
 ---

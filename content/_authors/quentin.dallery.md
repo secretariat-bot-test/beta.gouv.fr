@@ -10,5 +10,5 @@ missions:
 startups:
   - api-engagement
 memberType: beta
+teams: []
 ---
-

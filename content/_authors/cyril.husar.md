@@ -8,5 +8,7 @@ missions:
     status: admin
     employer: MEAE
 memberType: dinum
+competences: []
+teams: []
 ---
 Coach agile, facilitateur, formateur depuis 2015, j'aide les personnes, les équipes et les organisations à résoudre des problématiques complexes dans des environnements changeants.

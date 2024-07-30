@@ -1,7 +1,6 @@
 ---
 fullname: Laura Vergès
 domaine: Autre
-avatar: null
 link: https://laboiteaecrire.fr/
 missions:
   - start: 2023-02-14
@@ -16,5 +15,6 @@ memberType: autre
 role: Chargée de communication - conception/rédaction et partenariats
 startups:
   - jeveuxaider
+teams: []
 ---
 Chargée de communication, rêveuse de web participatif, libre et engagé.

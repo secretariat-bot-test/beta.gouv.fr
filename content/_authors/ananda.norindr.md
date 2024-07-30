@@ -8,12 +8,12 @@ missions:
   - start: 2023-02-13
     end: 2024-09-30
     status: independent
-    employer: ''
     startups:
       - exposition-ij
 startups:
   - exposition-ij
 memberType: beta
+teams: []
 ---
 Développeur Fullstack - Software engineer curieux et créatif
 Indie game développeur et adepte de DIY sur mon temps libre.

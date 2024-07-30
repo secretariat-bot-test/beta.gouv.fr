@@ -8,7 +8,6 @@ missions:
   - start: 2021-12-13
     end: 2025-01-31
     status: independent
-    employer: ''
     startups:
       - bat-id
 startups:
@@ -17,5 +16,6 @@ badges:
   - segur
 previously:
   - apilos
+teams: []
 ---
 J'aime contribuer et faire avancer les causes et les innovations

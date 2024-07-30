@@ -15,6 +15,6 @@ competences:
   - Croissance
   - OpenStreetMap
 memberType: beta
+teams: []
 ---
-
 Expert OpenStreetMap

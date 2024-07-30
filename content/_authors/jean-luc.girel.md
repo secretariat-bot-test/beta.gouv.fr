@@ -6,9 +6,9 @@ missions:
   - start: 2023-11-20
     end: 2024-12-31
     status: admin
-    employer: ''
 competences:
   - Intrapreneur(se)
   - Administration Publique
 memberType: beta
+teams: []
 ---

@@ -13,4 +13,5 @@ link: https://www.linkedin.com/in/julia-urquijo-963117136/
 competences:
   - Product design
 memberType: beta
+teams: []
 ---

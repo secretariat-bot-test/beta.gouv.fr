@@ -9,10 +9,11 @@ missions:
     end: 2019-09-30
     status: independent
     startups:
-      - zen
       - perspectives
+      - zen
 startups:
   - zen
   - perspectives
+teams: []
 ---
 J'accompagne des intrapreneurs et des product managers.

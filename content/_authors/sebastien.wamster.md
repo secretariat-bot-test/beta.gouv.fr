@@ -6,10 +6,10 @@ missions:
   - start: 2022-06-12
     end: 2024-09-30
     status: independent
-    employer: ''
     startups:
       - chauffage-urbain
 startups:
   - chauffage-urbain
+teams: []
 ---
 Géomatique, Sig, Cartographie, Urbanisme, Dataviz

@@ -7,11 +7,11 @@ missions:
   - start: 2023-02-20
     end: 2024-12-30
     status: service
-    employer: ''
     startups:
       - pop
 startups:
   - pop
 memberType: autre
+teams: []
 ---
 DevOps

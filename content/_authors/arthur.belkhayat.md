@@ -6,7 +6,6 @@ github: abelkhay
 missions:
   - start: 2022-06-01
     end: 2024-04-12
-
     status: independent
     employer: Malt
     startups:
@@ -20,6 +19,6 @@ badges:
 competences:
   - Développement Frontend
   - Développement Backend
+teams: []
 ---
-
 Développeur full stack

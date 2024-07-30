@@ -10,12 +10,12 @@ missions:
   - start: 2020-08-03
     end: 2024-09-30
     status: independent
-    employer: ''
 startups:
   - aplus
 previously:
   - comobi
   - workinfrance
 github: DanielBMY
+teams: []
 ---
 Linchpin mindset, fighting mediocrity, the status quo… and the lizard brain!
