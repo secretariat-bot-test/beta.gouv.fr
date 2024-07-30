@@ -1,6 +1,6 @@
 ---
 fullname: Marine Purson
-role: Responsable des Relations institutionnelles
+role: Responsable des relations institutionnelles
 domaine: Animation
 github: marinepurson2
 missions:
@@ -25,3 +25,4 @@ competences:
   - Intrapreneur(se)
   - Facilitation
 ---
+Animation et communication  

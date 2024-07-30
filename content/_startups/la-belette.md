@@ -8,19 +8,17 @@ phases:
   - name: investigation
     start: 2020-04-01
     end: 2020-07-07
-  - name: construction
-    start: 2021-03-01
   - name: alumni
     start: 2020-05-01
-link:
-repository:
+  - name: construction
+    start: 2021-03-01
 stats: false
-stats_url:
 contact: incubateur@anct.gouv.fr
 usertypes:
   - particulier
+thematiques: []
+techno: []
 ---
-
 ## Problème visé
 
 **Nous ne savons pas orienter les usagers qui nous contactent.**

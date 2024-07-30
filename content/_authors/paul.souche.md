@@ -11,9 +11,7 @@ missions:
     startups:
       - maison.de.lautisme
       - recosante
-startups:
-  - maison.de.lautisme
-  - recosante
 memberType: beta
+competences: []
 ---
 Développeur fullstack

@@ -19,16 +19,14 @@ missions:
     startups:
       - france-numerique-ensemble
   - start: 2024-05-21
+    end: 2024-08-21
+    status: independent
+  - start: 2024-05-21
     end: 2024-12-31
     status: independent
     employer: Malt
     startups:
       - annuaire-entreprises
-  - start: 2024-05-21
-    end: 2024-08-21
-    status: independent
-    employer: ''
-    startups: []
 previously:
   - france-numerique-ensemble
   - maintenant
@@ -40,5 +38,6 @@ competences:
   - Croissance
   - Administration Publique
   - Communication
+link: https://www.linkedin.com/in/lauren-michel-4b5a48116/
 ---
 Startupeuse curieuse et persévérante !

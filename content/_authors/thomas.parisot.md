@@ -9,7 +9,7 @@ missions:
     status: independent
     employer: octo
   - start: 2020-02-04
-    end: 2024-06-28
+    end: 2024-06-30
     status: independent
     employer: lazone/scopyleft
   - start: 2022-06-21
@@ -17,7 +17,6 @@ missions:
     status: service
     employer: lazone/solstice
 link: https://détour.studio
-startups:
 previously:
   - cartobio
   - data.gouv.fr

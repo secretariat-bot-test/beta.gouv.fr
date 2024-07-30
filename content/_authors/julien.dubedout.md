@@ -1,21 +1,15 @@
 ---
 fullname: Julien Dubedout
-role: Coach et designer
+role: Designer
 domaine: Design
 link: https://www.dedale.io/
 github: judbd
 missions:
   - start: 2022-10-20
-    end: 2023-03-30
-    status: independent
-    employer: Little Big Connection
+    end: 2024-11-20
+    status: service
     startups:
       - resorption-bidonvilles
-  - start: 2024-06-21
-    end: 2024-09-21
-    status: independent
-    employer: Numa
-    startups: []
 startups:
   - resorption-bidonvilles
 competences:

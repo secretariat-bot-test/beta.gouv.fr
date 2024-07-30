@@ -13,5 +13,6 @@ missions:
 startups:
   - sante-psy-etudiant
 memberType: autre
+competences: []
 ---
 Développeuse full-stack

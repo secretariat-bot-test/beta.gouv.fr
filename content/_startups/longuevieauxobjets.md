@@ -29,6 +29,7 @@ phases:
 thematiques:
   - Écologie
 stats_url: https://longuevieauxobjets.ademe.fr/stats/
+techno: []
 ---
 ## Contexte 👀
 

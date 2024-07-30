@@ -1,6 +1,6 @@
 ---
 fullname: Laura Dussier
-role: Designer Transverse / Lead Designer
+role: Product Designer
 domaine: Design
 github: supersuperflux
 missions:
@@ -25,4 +25,3 @@ teams:
   - /teams/ademe
 link: https://www.linkedin.com/in/lauradussier-design/
 ---
-Designeuse & dessinatrice, j’accompagne des entreprises, associations et startups du service public vers une des expériences usagers ou collaborateurices accessibles et pleines de panache. 

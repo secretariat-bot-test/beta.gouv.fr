@@ -5,11 +5,9 @@ domaine: Développement
 github: SarahRubio
 missions:
   - start: 2019-09-17
-    end: 2024-10-31
+    end: 2024-09-13
     status: independent
-    employer: La Zone/Scopyleft
-    startups:
-      - sndv_maritime
+    employer: scopyleft
 startups:
   - sndv_maritime
 previously:
