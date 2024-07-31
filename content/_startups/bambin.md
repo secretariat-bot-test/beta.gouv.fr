@@ -1,7 +1,5 @@
 ---
-mission: >-
-  Faciliter la mise à disposition et la réutilisation des données de mesure du
-  bruit.
+mission: Faciliter la mise à disposition et la réutilisation des données de mesure du bruit.
 incubator: accelerema
 title: Bambin
 contact: martin.schoreisz@cerema.fr
@@ -9,6 +7,12 @@ accessibility_status: non conforme
 phases:
   - name: investigation
     start: 2024-04-03
+thematiques:
+  - Collectivités
+  - Territoires
+usertypes:
+  - collectivite-territoriale
+techno: []
 ---
 ## Contexte
 
