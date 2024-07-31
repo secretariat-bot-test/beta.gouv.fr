@@ -14,5 +14,15 @@ missions:
 startups:
   - cartobio
 memberType: beta
+competences:
+  - Administration Système
+  - Développement Backend
+  - Développement Full-stack
+  - JavaScript/TypeScript
+  - DevOps
+  - Python
+  - PostgreSQL
+  - PHP
+  - Matomo
 ---
 Développeuse fullstack

@@ -11,9 +11,11 @@ missions:
     startups:
       - maison.de.lautisme
       - recosante
-startups:
-  - maison.de.lautisme
-  - recosante
 memberType: beta
+competences:
+  - Développement Full-stack
+  - Docker
+  - JavaScript/TypeScript
+  - PostgreSQL
 ---
 Développeur fullstack

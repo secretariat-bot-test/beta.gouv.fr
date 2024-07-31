@@ -9,10 +9,6 @@ missions:
     end: 2023-02-28
     status: service
     employer: Captive
-  - start: 2024-06-01
-    end: 2024-12-31
-    status: service
-    employer: Captive
 startups:
   - eva
 ---

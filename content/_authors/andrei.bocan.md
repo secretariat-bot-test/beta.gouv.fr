@@ -14,5 +14,6 @@ missions:
     employer: gip-inclusion
 startups:
   - dora
+competences: []
 ---
 UX / Product Designer

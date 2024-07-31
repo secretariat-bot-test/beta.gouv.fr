@@ -3,16 +3,14 @@ fullname: yannick roussel
 role: Développeur
 domaine: Développement
 missions:
-  - start: 2023-03-01
-    end: 2024-12-30
+  - start: 2022-06-23
+    end: 2024-09-30
     status: independent
-    employer: Ministère de la justice
     startups:
       - mistral-penal
   - start: 2024-04-01
-    end: 2024-12-30
+    end: 2024-07-31
     status: independent
-    employer: Ministère de la justice
     startups:
       - precontentieux.justice
 badges:

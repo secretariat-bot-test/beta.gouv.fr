@@ -15,5 +15,6 @@ startups:
   - tchap
 badges:
   - segur
+competences: []
 ---
 Chargé de déploiement, expert en communication, analyste-rédacteur en géopolitique, je cherche à donner du sens à chaque projet que j'entreprends !

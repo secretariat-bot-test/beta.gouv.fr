@@ -1,10 +1,9 @@
 ---
 title: Former Recruter
-mission: Permettre aux entreprises dans un secteur en tension de répondre à
-  leurs besoins de recrutement
+mission: Permettre aux entreprises dans un secteur en tension de répondre à leurs besoins de recrutement
 sponsors:
-  - /organisations/francetravail
-incubator: francetravail
+  - /organisations/pole-emploi
+incubator: pole-emploi
 contact: clarisse.kerdranvat@pole-emploi.fr
 accessibility_status: non conforme
 phases:

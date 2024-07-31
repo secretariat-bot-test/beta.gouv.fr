@@ -9,10 +9,6 @@ missions:
     end: 2023-12-31
     status: service
     employer: ut7
-  - start: 2024-06-01
-    end: 2024-12-31
-    status: service
-    employer: ut7
 startups:
   - eva
 ---

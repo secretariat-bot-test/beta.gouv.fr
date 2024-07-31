@@ -5,11 +5,9 @@ domaine: Développement
 github: polomarcus
 missions:
   - start: 2021-01-04
-    end: 2021-07-02
+    end: 2024-11-02
     status: admin
     employer: DINUM
-    startups:
-      - sante-psy-etudiant
 startups:
   - sante-psy-etudiant
 ---

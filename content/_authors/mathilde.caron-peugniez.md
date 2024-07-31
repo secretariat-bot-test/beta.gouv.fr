@@ -16,6 +16,8 @@ previously:
 memberType: beta
 teams:
   - /teams/mtes
-
-
+competences:
+  - Intrapreneur(se)
+  - Droit / Affaires juridiques
+  - Communication
 ---

@@ -1,15 +1,15 @@
 ---
 fullname: Irung Stéphane Luong
-role: Coach produit
+role: Coach PM
 domaine: Coaching
 missions:
   - start: 2023-10-02
-    end: 2024-12-31
+    end: 2024-06-30
     status: independent
     employer: Incubateur France Travail
     startups:
-      - travailler.en.france
       - mes-aides-france-travail
+      - travailler.en.france
 startups:
   - travailler.en.france
   - mes-aides-france-travail

@@ -21,5 +21,6 @@ competences:
   - Développement Backend
   - UI
   - UX
+link: https://www.linkedin.com/in/augustinragon/
 ---
 Développeur full-stack passionné de programmation fonctionnelle. J'aime la musique, la nature, et le fromage.
